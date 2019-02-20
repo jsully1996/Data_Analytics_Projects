@@ -1,0 +1,10 @@
+# Crime_in_Vancouver
+
+Dependencies BeautifulSoup, Geopy, MongoDB, Tableau
+
+1) Use "Clean_data.py" (present in Source_code folder) with input file "crime_csv_all_years.csv" and set output file as "crime_latlong.csv".
+2) Use all the "KML_to_CSV_" codes in Source_code to generate csv by giving the respective files to them present with the same names in Data folder.
+3) Run Crime_DB_create.ipynb for cross joining the data. The data here will be uploaded to Mongo DB.
+4) Once the job finishes run Random_split.ipynb to spilt the data.
+5) After splitting use Train_Regression.ipynb to generate the Train regression model.
+6) Use all the files in Visualisation folder on Tableau for viewing the graphs.

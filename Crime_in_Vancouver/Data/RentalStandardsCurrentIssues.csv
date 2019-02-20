@@ -1,0 +1,377 @@
+STREETNUMBER,STREET,TOTALUNITS,BUSINESSOPERATOR,TOTALOUTSTANDING,LATITUDE,LONGITUDE,DETAILURL
+320,ABBOTT STREET,60,0707892 BC Ltd,1,49.282614129999999,-123.106647560000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=320&street=ABBOTT STREET
+351,ABBOTT STREET,125,PHS Community Services Society,1,49.282715650000000,-123.108077339999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=351&street=ABBOTT STREET
+404,ABBOTT STREET,71,Central City Foundation,14,49.281684900000002,-123.107135590000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=404&street=ABBOTT STREET
+1656,ADANAC STREET,46,Entre Nous Femmes Housing Society,2,49.277334060000001,-123.072001869999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1656&street=ADANAC STREET
+1785,ADANAC STREET,5,Lily Jang,1,49.277802880000003,-123.068787220000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1785&street=ADANAC STREET
+58,ALEXANDER STREET,30,City of Vancouver,3,49.283442610000002,-123.102716300000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=58&street=ALEXANDER STREET
+176,ALEXANDER STREET,77,Affordable Housing Advisory Association,1,49.283789010000000,-123.100607830000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=176&street=ALEXANDER STREET
+346,ALEXANDER STREET,63,Lookout Housing and Health Society,2,49.283769780000000,-123.096325890000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=346&street=ALEXANDER STREET
+658,ALEXANDER STREET,19,Rose Hotels Ltd,11,49.283652990000000,-123.090052160000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=658&street=ALEXANDER STREET
+688,ALEXANDER STREET,9,Railtown Land Corporation,4,49.283649550000000,-123.089842460000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=688&street=ALEXANDER STREET
+1646,ALMA STREET,5,Marjorie D Ross & Andrew A Ross,1,49.271504909999997,-123.185327169999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1646&street=ALMA STREET
+1520,AVERY AVENUE,8,Me Jing Investments Ltd,4,49.207724560000003,-123.141575940000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1520&street=AVERY AVENUE
+1534,BALSAM STREET,10,Hillary Ling & Stella Ling,6,49.272011470000002,-123.159518840000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1534&street=BALSAM STREET
+1460,BARCLAY STREET,109,Barclay Properties Ltd,2,49.286930660000003,-123.133324450000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1460&street=BARCLAY STREET
+1710,BARCLAY STREET,23,Kunsun Holdings Ltd,1,49.288975190000002,-123.136484530000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1710&street=BARCLAY STREET
+1865,BARCLAY STREET,40,Tang Realty Development Corp,2,49.290887249999997,-123.138276750000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1865&street=BARCLAY STREET
+1395,BEACH AVENUE,91,Bonniehon Enterprises Ltd,2,49.281633050000003,-123.139028710000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1395&street=BEACH AVENUE
+1260,BIDWELL STREET,76,Glassman Holdings Ltd,1,49.285076470000000,-123.141204880000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1260&street=BIDWELL STREET
+2210,BLENHEIM STREET,8,Norman Estates Ltd,5,49.266519780000003,-123.177493119999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2210&street=BLENHEIM STREET
+1091,BROUGHTON STREET,40,S A H Properties Ltd,2,49.285018059999999,-123.134663919999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1091&street=BROUGHTON STREET
+650,BUCKETWHEEL,45,The Vancouver Broadway Housing Society,1,49.267690920000000,-123.118189650000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=650&street=BUCKETWHEEL
+1068,BURNABY STREET,23,Thurlow Street Project Nominee Inc,6,49.279238069999998,-123.132191160000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1068&street=BURNABY STREET
+1150,BURNABY STREET,176,Paul Y Mansion (Paul Mansion),3,49.280494670000003,-123.134133890000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1150&street=BURNABY STREET
+1270,BURNABY STREET,22,1270 Burnaby Street Holdings Ltd,1,49.281657289999998,-123.135900750000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1270&street=BURNABY STREET
+1516,BURNABY STREET,23,1035412 BC Ltd,1,49.283798370000000,-123.139239170000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1516&street=BURNABY STREET
+1521,BURNABY STREET,43,Simay Investments Ltd,1,49.284182680000001,-123.138671610000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1521&street=BURNABY STREET
+1630,BURNABY STREET,21,FZN Burnaby Apartments Ltd,2,49.284690390000002,-123.140612540000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1630&street=BURNABY STREET
+601,BUTE STREET,23,Huntly Investments Ltd,5,49.287781959999997,-123.124664080000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=601&street=BUTE STREET
+990,BUTE STREET,36,Belmont Bute 990 Holdings Inc,1,49.283948860000002,-123.129701049999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=990&street=BUTE STREET
+317,CAMBIE STREET,18,Danny's Inn Ltd,2,49.283232980000001,-123.109504000000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=317&street=CAMBIE STREET
+322,CAMBIE STREET,9,Philip Swartz & Shirley Swartz,46,49.282912179999997,-123.109163950000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=322&street=CAMBIE STREET
+340,CAMBIE STREET,44,635142 BC Ltd,1,49.282751670000003,-123.109095560000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=340&street=CAMBIE STREET
+3725,CAMBIE STREET,11,Shoyle Holdings Ltd,1,49.251958219999999,-123.115746930000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3725&street=CAMBIE STREET
+2250,CAMBRIDGE STREET,23,Victor Wong & Robetti Wong,2,49.286348670000002,-123.058604079999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2250&street=CAMBRIDGE STREET
+425,CAMPBELL AVENUE,20,Polo Hotel Ltd,4,49.280468900000002,-123.085075380000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=425&street=CAMPBELL AVENUE
+843,CARDERO STREET,39,Derik Ventures Ltd,3,49.289041879999999,-123.133284090000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=843&street=CARDERO STREET
+1225,CARDERO STREET,169,331750 BC Ltd,5,49.285409700000002,-123.139577849999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1225&street=CARDERO STREET
+309,CARRALL STREET,41,PHS Community Services Society,6,49.282237320000000,-123.104605550000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=309&street=CARRALL STREET
+8667,CARTIER STREET,13,Silver Star Holdings Inc,1,49.207734230000000,-123.138135340000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8667&street=CARTIER STREET
+930,CHILCO STREET,29,EMV Holdings Corp,1,49.292027529999999,-123.140043100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=930&street=CHILCO STREET
+2308,CLARK DRIVE,5,Armando Ferreira,3,49.264044470000002,-123.077086490000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2308&street=CLARK DRIVE
+303,COLUMBIA STREET,79,Seven Estate Ltd,1,49.282070089999998,-123.102544200000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=303&street=COLUMBIA STREET
+351,COLUMBIA STREET,27,Persepolis Investments Inc,3,49.281679300000000,-123.102461700000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=351&street=COLUMBIA STREET
+2615,COLUMBIA STREET,13,673854 BC Ltd,2,49.261977889999997,-123.109842210000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2615&street=COLUMBIA STREET
+810,COMMERCIAL DIVERSION NORTH,7,John Engleman,2,49.277302339999999,-123.069337379999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=810&street=COMMERCIAL DIVERSION NORTH
+633,COMMERCIAL DRIVE,6,631 Commercial Drive Holdings Ltd,1,49.278845400000002,-123.070747440000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=633&street=COMMERCIAL DRIVE
+943,COMMERCIAL DRIVE,5,Dionyssios Galanopoulos,2,49.275922319999999,-123.069874639999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=943&street=COMMERCIAL DRIVE
+1389,COMMERCIAL DRIVE,16,Tom Wong,5,49.272443279999997,-123.069979910000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1389&street=COMMERCIAL DRIVE
+1435,COMMERCIAL DRIVE,6,Jack Eng,1,49.271722769999997,-123.069980970000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1435&street=COMMERCIAL DRIVE
+3607,COMMERCIAL STREET,10,John Manzi Nalatino Manzi & Robert Manzi,1,49.252331560000002,-123.068462510000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3607&street=COMMERCIAL STREET
+1075,COMOX STREET,87,Andrew Priatel & John Priatel,1,49.281463610000003,-123.128015260000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1075&street=COMOX STREET
+1717,COMOX STREET,23,Daysgoneby.org Land Stewards Ltd,1,49.288035700000002,-123.137963810000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1717&street=COMOX STREET
+1450,CREEKSIDE DRIVE,39,Creekside Ventures Limited,1,49.271455590000002,-123.139846420000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1450&street=CREEKSIDE DRIVE
+238,DAVIE STREET,72,Brightside Community Homes Foundation,5,49.273756360000000,-123.123707720000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=238&street=DAVIE STREET
+676,DAVIE STREET,8,Yip C Lai & Cheuk Y Lew,1,49.276850830000001,-123.126053050000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=676&street=DAVIE STREET
+1116,DAVIE STREET,6,Wing Chan Investments Ltd,3,49.280507489999998,-123.131982910000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1116&street=DAVIE STREET
+1180,DAVIE STREET,5,Pacific Coast Tobacco Co Ltd,1,49.281294029999998,-123.133216280000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1180&street=DAVIE STREET
+809,DENMAN STREET,8,Lawrence Wong,1,49.291471129999998,-123.135899310000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=809&street=DENMAN STREET
+1515,DISCOVERY STREET,282,Hostelling International Canada B C Region,3,49.273105160000000,-123.205488960000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1515&street=DISCOVERY STREET
+183,DRAKE STREET,74,Society For Christian Care of Elderly,1,49.273303270000000,-123.122707600000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=183&street=DRAKE STREET
+5626,DUNBAR STREET,8,J 110 Freecorp Holdings Ltd,2,49.235271370000000,-123.184990350000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5626&street=DUNBAR STREET
+2200,DUNDAS STREET,35,442746 BC Ltd,6,49.284541079999997,-123.059465970000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2200&street=DUNDAS STREET
+143,DUNLEVY AVENUE,55,Atira Women's Resource Society,10,49.283361159999998,-123.095512600000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=143&street=DUNLEVY AVENUE
+225,DUNLEVY AVENUE,109,Lookout Housing and Health Society,27,49.282855150000003,-123.095626100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=225&street=DUNLEVY AVENUE
+354,E 10TH AVENUE,12,Big Fortune Enterprises Co Ltd,3,49.261704150000000,-123.096836980000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=354&street=E 10TH AVENUE
+414,E 10TH AVENUE,38,Fu D Ren & Feng B Yan,5,49.261306849999997,-123.095546770000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=414&street=E 10TH AVENUE
+1556,E 10TH AVENUE,9,Anthony Ng & Yumy Ng,10,49.261117870000000,-123.072338180000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1556&street=E 10TH AVENUE
+1629,E 10TH AVENUE,8,Jan Friedman,1,49.261635470000002,-123.071002310000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1629&street=E 10TH AVENUE
+425,E 11TH AVENUE,57,Kensington Court Apts Ltd,1,49.260925749999998,-123.095548800000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=425&street=E 11TH AVENUE
+44,E 13TH AVENUE,51,Van Center Management Inc,1,49.259061529999997,-123.104215930000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=44&street=E 13TH AVENUE
+242,E 14TH AVENUE,20,HWP 242 14th Avenue Ltd,1,49.258124270000003,-123.099463640000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=242&street=E 14TH AVENUE
+30,E 15TH AVENUE,29,Halla Manor Holdings Ltd,2,49.257284579999997,-123.104667019999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=30&street=E 15TH AVENUE
+227,E 15TH AVENUE,8,Kin Quai Mah & Woo Wai Yin Mah,1,49.257745280000002,-123.100104390000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=227&street=E 15TH AVENUE
+250,E 15TH AVENUE,6,Jimmy Chow,1,49.257218180000002,-123.099285190000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=250&street=E 15TH AVENUE
+631,E 15TH AVENUE,12,667441 BC Ltd,2,49.257402560000003,-123.090236060000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=631&street=E 15TH AVENUE
+657,E 15TH AVENUE,8,Nhung Thi Dinh & Thi T Dinh,1,49.257349849999997,-123.089676350000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=657&street=E 15TH AVENUE
+137,E 16TH AVENUE,8,Alfred Dyck,1,49.256866340000002,-123.102146920000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=137&street=E 16TH AVENUE
+210,E 16TH AVENUE,10,Yueko Enterprises Ltd,1,49.256325390000001,-123.100523490000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=210&street=E 16TH AVENUE
+223,E 16TH AVENUE,23,East 16th Avenue Holdings Ltd,1,49.256842069999998,-123.100116550000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=223&street=E 16TH AVENUE
+199,E 17TH AVENUE,8,Mighty Atom Holdings Inc,7,49.255873690000001,-123.101701100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=199&street=E 17TH AVENUE
+1421,E 2ND AVENUE,33,Yin Wan Enterprises Ltd,1,49.268999569999998,-123.074837030000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1421&street=E 2ND AVENUE
+330,E 36TH AVENUE,117,Little Mtn Residential Care & Housing Society,2,49.237641289999999,-123.099928710000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=330&street=E 36TH AVENUE
+2001,E 36TH AVENUE,8,Hardip Pawa & Surinder Pawa,3,49.237668329999998,-123.065027509999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2001&street=E 36TH AVENUE
+1602,E 41ST AVENUE,15,Brightside Community Homes Foundation,1,49.232384820000000,-123.072567460000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1602&street=E 41ST AVENUE
+686,E 43RD AVENUE,6,Lam & Son Investment Inc,4,49.230857890000003,-123.091018469999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=686&street=E 43RD AVENUE
+1545,E 4TH AVENUE,8,Albert Weisstock,4,49.267160050000001,-123.072486810000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1545&street=E 4TH AVENUE
+1722,E 4TH AVENUE,6,Jim Lee & Yu A Lee,1,49.266882129999999,-123.069073050000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1722&street=E 4TH AVENUE
+525,E 5TH AVENUE,41,Prang Holdings Ltd,2,49.266431109999999,-123.091992140000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=525&street=E 5TH AVENUE
+1650,E 5TH AVENUE,56,George & Miriam & Theresa Winkler,1,49.265730370000000,-123.071468650000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1650&street=E 5TH AVENUE
+203,E 6TH AVENUE,17,Mighty Atom Holdings Inc,6,49.265641770000002,-123.100376270000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=203&street=E 6TH AVENUE
+801,E 6TH AVENUE,188,262109 B C Ltd,3,49.265611960000001,-123.086251030000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=801&street=E 6TH AVENUE
+1555,E 6TH AVENUE,44,Briscoe Holdings Ltd,3,49.265349030000003,-123.072666130000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1555&street=E 6TH AVENUE
+1620,E 6TH AVENUE,41,Brightside Community Homes Foundation,2,49.264718760000001,-123.071350900000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1620&street=E 6TH AVENUE
+133,E 7TH AVENUE,13,Antonio Chun Hung Lee (Antonio Lee),1,49.264870799999997,-123.102040740000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=133&street=E 7TH AVENUE
+537,E 7TH AVENUE,9,Acona Investments Ltd,4,49.264600979999997,-123.092078009999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=537&street=E 7TH AVENUE
+611,E 7TH AVENUE,106,R Markham,1,49.264586580000000,-123.090388750000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=611&street=E 7TH AVENUE
+727,E 7TH AVENUE,38,Joseph Seccia & Mario Seccia,1,49.264570980000002,-123.088463200000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=727&street=E 7TH AVENUE
+156,E 8TH AVENUE,12,C B T Holdings Ltd,7,49.263544119999999,-123.101427849999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=156&street=E 8TH AVENUE
+404,E 8TH AVENUE,39,Golden Fortune Enterprises Ltd,4,49.263195549999999,-123.095397360000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=404&street=E 8TH AVENUE
+107,E BROADWAY,46,Aishwarya Investments Ltd,3,49.263460389999999,-123.102501110000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=107&street=E BROADWAY
+833,E BROADWAY,11,Gordon Block Apartments Ltd,1,49.262748330000001,-123.086428369999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=833&street=E BROADWAY
+1209,E BROADWAY,37,Cameo Concepts Corp,1,49.262682419999997,-123.078692970000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1209&street=E BROADWAY
+1383,E BROADWAY,30,0907682 BC Ltd,3,49.262664139999998,-123.075799219999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1383&street=E BROADWAY
+1510,E BROADWAY,22,Joseph Seccia & Mario Seccia,3,49.262031090000001,-123.073399740000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1510&street=E BROADWAY
+1530,E BROADWAY,5,Broadway Terrace Development Ltd,4,49.262027740000001,-123.073021890000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1530&street=E BROADWAY
+1533,E BROADWAY,12,Alpha Partner Global Ltd,1,49.262640740000002,-123.073031599999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1533&street=E BROADWAY
+1624,E BROADWAY,17,Lori-Gay Holdings Ltd,4,49.262014870000002,-123.071313059999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1624&street=E BROADWAY
+50,E CORDOVA STREET,39,Southwood Ventures Inc,2,49.282152369999999,-123.103059010000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=50&street=E CORDOVA STREET
+100,E CORDOVA STREET,48,Provincial Rental Housing Corporation,21,49.282070089999998,-123.101975800000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=100&street=E CORDOVA STREET
+172,E CORDOVA STREET,11,Atira Women's Resource Society,1,49.282142420000000,-123.100091470000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=172&street=E CORDOVA STREET
+420,E CORDOVA STREET,65,Metro Vancouver Housing Corporation,9,49.281931479999997,-123.094827180000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=420&street=E CORDOVA STREET
+679,E CORDOVA STREET,12,679 East Cordova Street Holdings Ltd,1,49.282351120000001,-123.089714240000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=679&street=E CORDOVA STREET
+208,E GEORGIA STREET,73,Atira Women's Resource Society,12,49.278395359999998,-123.099321470000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=208&street=E GEORGIA STREET
+221,E GEORGIA STREET,16,Casu Holdings Ltd,3,49.278805929999997,-123.098826540000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=221&street=E GEORGIA STREET
+249,E GEORGIA STREET,18,249 East Georgia Street Holdings Ltd,6,49.278789650000000,-123.098000360000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=249&street=E GEORGIA STREET
+291,E GEORGIA STREET,34,David Lam,21,49.278676900000001,-123.097399460000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=291&street=E GEORGIA STREET
+8,E HASTINGS STREET,5,Zarshi Investments Inc,3,49.281110280000000,-123.104041650000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8&street=E HASTINGS STREET
+103,E HASTINGS STREET,19,Potter's Place Mission Society,1,49.281677320000000,-123.101875990000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=103&street=E HASTINGS STREET
+159,E HASTINGS STREET,171,Balmoral Hotel Ltd,113,49.281662869999998,-123.100819770000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=159&street=E HASTINGS STREET
+160,E HASTINGS STREET,158,Triville Enterprises Ltd,556,49.281050620000002,-123.100850410000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=160&street=E HASTINGS STREET
+166,E HASTINGS STREET,45,Provincial Rental Housing Corporation,1,49.281045960000000,-123.100535550000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=166&street=E HASTINGS STREET
+177,E HASTINGS STREET,81,PHS Community Services Society,1,49.281656230000003,-123.100497739999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=177&street=E HASTINGS STREET
+235,E HASTINGS STREET,74,HE Rooms Inc,35,49.281612359999997,-123.098808690000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=235&street=E HASTINGS STREET
+237,E HASTINGS STREET,60,The Natives Of Toi Shan Benevolent Society,7,49.281610200000003,-123.098709959999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=237&street=E HASTINGS STREET
+241,E HASTINGS STREET,18,Douglas Chang,2,49.281608490000004,-123.098604790000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=241&street=E HASTINGS STREET
+249,E HASTINGS STREET,39,Guo Zhu & Shiao Bing Wu,2,49.281604620000003,-123.098395100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=249&street=E HASTINGS STREET
+258,E HASTINGS STREET,26,Provincial Rental Housing Corporation,2,49.280936599999997,-123.098219290000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=258&street=E HASTINGS STREET
+341,E HASTINGS STREET,26,Summer Hotel Ltd,31,49.281572030000000,-123.096528690000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=341&street=E HASTINGS STREET
+367,E HASTINGS STREET,33,Kam C Woo & Lin D Woo,1,49.281563480000003,-123.096004120000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=367&street=E HASTINGS STREET
+437,E HASTINGS STREET,12,Kam Y Loh & Merrilee I Loh,3,49.281531559999998,-123.094367860000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=437&street=E HASTINGS STREET
+456,E HASTINGS STREET,52,Provincial Rental Housing Corporation,44,49.280916339999997,-123.094181890000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=456&street=E HASTINGS STREET
+561,E HASTINGS STREET,54,Pepple Enterprises Ltd,3,49.281489420000000,-123.091997230000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=561&street=E HASTINGS STREET
+684,E HASTINGS STREET,16,643838 BC Ltd,12,49.280840140000002,-123.089974960000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=684&street=E HASTINGS STREET
+786,E HASTINGS STREET,44,Kim Thanh Nguyen (Kim Nguyen),6,49.280802960000003,-123.087700459999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=786&street=E HASTINGS STREET
+1168,E HASTINGS STREET,32,Vernon Apartments Inc,1,49.280679640000002,-123.079733289999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1168&street=E HASTINGS STREET
+1190,E HASTINGS STREET,30,TLA Enterprises Limited,16,49.280673569999998,-123.079406050000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1190&street=E HASTINGS STREET
+3475,E HASTINGS STREET,59,Community Builders Benevolence Foundation (2013),1,49.281421240000000,-123.029331279999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3475&street=E HASTINGS STREET
+3570,E HASTINGS STREET,14,Kathed Holdings Ltd,2,49.280852940000003,-123.026822110000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3570&street=E HASTINGS STREET
+3683,E HASTINGS STREET,67,353806 BC Ltd,1,49.281387930000001,-123.024374420000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3683&street=E HASTINGS STREET
+33,E PENDER STREET,14,Yue Shan Society,1,49.280702099999999,-123.103327920000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=33&street=E PENDER STREET
+100,E PENDER STREET,45,0813069 BC Ltd,1,49.280171549999999,-123.102143740000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=100&street=E PENDER STREET
+139,E PENDER STREET,34,Mah Society of Canada,5,49.280663279999999,-123.100966340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=139&street=E PENDER STREET
+349,E PENDER STREET,9,Lew Mow Wai Society,1,49.280557940000001,-123.095944149999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=349&street=E PENDER STREET
+826,E PENDER STREET,6,Bernhard Nachtwey,5,49.279867830000001,-123.086513870000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=826&street=E PENDER STREET
+827,E PENDER STREET,26,Association of United Ukranian Canadians,1,49.280386870000001,-123.086496229999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=827&street=E PENDER STREET
+832,E PENDER STREET,20,George Jang,1,49.279866110000000,-123.086408000000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=832&street=E PENDER STREET
+1880,E PENDER STREET,50,Bloomsbury Properties Ltd,2,49.279965820000001,-123.066455190000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1880&street=E PENDER STREET
+2212,ETON STREET,10,Jasmine Investments (1994) Co Ltd,2,49.287254179999998,-123.059206100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2212&street=ETON STREET
+3223,FINDLAY STREET,12,Natasha Taylor,3,49.255911300000001,-123.068254560000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3223&street=FINDLAY STREET
+2880,FIR STREET,8,0989866 BC Ltd,4,49.260121839999996,-123.140930180000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2880&street=FIR STREET
+1777,FRANCES STREET,59,Razgul Holdings Ltd,1,49.279615430000000,-123.068749960000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1777&street=FRANCES STREET
+1610,FRANKLIN STREET,50,Urban Vision Housing Society,10,49.282006060000001,-123.072283570000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1610&street=FRANKLIN STREET
+1719,FRANKLIN STREET,32,Vancouver Native Housing Society,10,49.282427579999997,-123.069790760000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1719&street=FRANKLIN STREET
+2505,FRASER STREET,13,Concord International Lands Ltd,1,49.262162199999999,-123.089487860000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2505&street=FRASER STREET
+2931,FRASER STREET,4,Jason Gerstmar & Retha Gerstmar,4,49.258270590000002,-123.089552020000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2931&street=FRASER STREET
+3350,FRASER STREET,8,The John Howard Society of the Lower Mainland of BC,3,49.255060589999999,-123.089471790000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3350&street=FRASER STREET
+4095,FRASER STREET,13,4095 Fraser Street Holdings Ltd,8,49.248800420000002,-123.090627500000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4095&street=FRASER STREET
+5760,FRASER STREET,5,0790462 BC Ltd,1,49.232263619999998,-123.090167530000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5760&street=FRASER STREET
+6126,FRASER STREET,15,Gajindera K Sodhi & Karnail S Thind,19,49.228849879999999,-123.090277220000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=6126&street=FRASER STREET
+6462,FRASER STREET,16,6462 Fraser Developments Inc,3,49.225859839999998,-123.090371350000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=6462&street=FRASER STREET
+2325,GLEN DRIVE,10,Glen Drive Apartments Ltd,1,49.264002140000002,-123.081695270000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2325&street=GLEN DRIVE
+341,GORE AVENUE,27,Provincial Rental Housing Corporation,2,49.281595830000001,-123.097789960000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=341&street=GORE AVENUE
+445,GORE AVENUE,24,George Fu,4,49.280487870000002,-123.097638880000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=445&street=GORE AVENUE
+609,GORE AVENUE,51,Fan Tower South Inc,1,49.279165229999997,-123.097427929999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=609&street=GORE AVENUE
+936,GRANVILLE STREET,71,Siesta Rooms 1995 Ltd,8,49.279675879999999,-123.121783160000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=936&street=GRANVILLE STREET
+1046,GRANVILLE STREET,82,Regal Eighty Management Corp,5,49.278603820000001,-123.123393240000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1046&street=GRANVILLE STREET
+1060,GRANVILLE STREET,80,1060 Granville Street Ventures Inc,4,49.278424870000002,-123.123681340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1060&street=GRANVILLE STREET
+1130,GRANVILLE STREET,6,Jutta Ahmed,5,49.277621179999997,-123.124894790000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1130&street=GRANVILLE STREET
+1161,GRANVILLE STREET,93,Provincial Rental Housing Corporation,1,49.277711779999997,-123.125949539999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1161&street=GRANVILLE STREET
+1306,GRANVILLE STREET,43,Community Builders Benevolence Group,1,49.275852919999998,-123.127734750000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1306&street=GRANVILLE STREET
+2414,GRANVILLE STREET,12,Dranly Holdings Ltd,1,49.264228400000000,-123.138128460000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2414&street=GRANVILLE STREET
+2930,GRANVILLE STREET,6,Choo Bros Investments Ltd,1,49.259316810000001,-123.138312529999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2930&street=GRANVILLE STREET
+8455,GRANVILLE STREET,6,Wangzhang Homes Ltd,1,49.210011950000002,-123.140955719999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8455&street=GRANVILLE STREET
+8732,GRANVILLE STREET,10,656864 BC Ltd,4,49.206624349999998,-123.140204940000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8732&street=GRANVILLE STREET
+553,HAMILTON STREET,28,Riste Investments Ltd,3,49.281596250000000,-123.112298370000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=553&street=HAMILTON STREET
+1122,HARO STREET,84,Arkhu Investment Ltd,4,49.283995949999998,-123.126614680000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1122&street=HARO STREET
+1131,HARO STREET,12,Haro Towers Ltd,3,49.284674269999996,-123.126542990000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1131&street=HARO STREET
+1435,HARO STREET,6,Girish Mala Ledhar (Girish Lehdar),3,49.287773590000000,-123.131315460000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1435&street=HARO STREET
+1629,HARO STREET,40,Shelmarjay Holdings Ltd,1,49.289300490000002,-123.133679470000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1629&street=HARO STREET
+1825,HARO STREET,89,Vancouver Park Lane Towers Ltd,1,49.291336020000003,-123.136827340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1825&street=HARO STREET
+1860,HARO STREET,37,636458 BC Ltd,1,49.291302340000001,-123.137929450000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1860&street=HARO STREET
+1100,HARWOOD STREET,46,D.D. 1100 Harwood Apartments Ltd,1,49.278952339999996,-123.133897260000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1100&street=HARWOOD STREET
+1225,HARWOOD STREET,6,James F Wong & Mary S Wong,2,49.280932770000000,-123.135827510000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1225&street=HARWOOD STREET
+1651,HARWOOD STREET,152,English Bay Towers Investments Inc,1,49.284500190000003,-123.141318700000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1651&street=HARWOOD STREET
+2820,HEATHER STREET,20,Otrun Kneifel & Walter Kneifel,1,49.260179729999997,-123.119747129999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2820&street=HEATHER STREET
+8575,HEATHER STREET,21,Netty Prosterman,2,49.208614609999998,-123.124865799999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8575&street=HEATHER STREET
+8666,HEATHER STREET,23,Fairbridge Enterprises Ltd,5,49.207710830000003,-123.123852540000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8666&street=HEATHER STREET
+514,HOMER STREET,42,Victorian Hotel Ltd,3,49.282484310000001,-123.112058370000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=514&street=HOMER STREET
+2975,HORLEY STREET,34,Brightside Community Homes Foundation,2,49.239665209999998,-123.044130530000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2975&street=HORLEY STREET
+1119,HORNBY STREET,87,Atira Women's Resource Society,16,,,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1119&street=HORNBY STREET
+8619,HUDSON STREET,10,Beng Kim Yeung (Beng Yeung),2,49.208297580000000,-123.135048700000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8619&street=HUDSON STREET
+830,JACKSON AVENUE,11,Whistler Valley Construction Corp Inc,5,49.276897259999998,-123.093459780000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=830&street=JACKSON AVENUE
+610,JERVIS STREET,50,S A H Properties Ltd,1,49.288546609999997,-123.125843810000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=610&street=JERVIS STREET
+5187,JOYCE STREET,5,Green Power Real Estate Inc,2,49.237744530000001,-123.032737330000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5187&street=JOYCE STREET
+727,KEEFER STREET,12,Percy Hoy et al (Percy Hoy),8,49.279517589999998,-123.088920720000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=727&street=KEEFER STREET
+812,KEEFER STREET,8,Liu Li Ying (Liu Ying),2,49.278977030000000,-123.086868380000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=812&street=KEEFER STREET
+1265,KINGSWAY,6,Song Xanh Holdings Ltd,1,49.251794640000000,-123.078552070000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1265&street=KINGSWAY
+2535,KINGSWAY,10,Superior Holdings Co Ltd,1,49.239999519999998,-123.053256800000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2535&street=KINGSWAY
+2582,KINGSWAY,5,Kenneth Sam,1,49.239056310000002,-123.052681960000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2582&street=KINGSWAY
+3611,KINGSWAY,7,Shane Kit Chung Cheung (Shane Cheung),2,49.232485609999998,-123.025551930000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3611&street=KINGSWAY
+205,MAIN STREET,20,Sentinel Peak Holdings Ltd,5,49.283048290000004,-123.100039010000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=205&street=MAIN STREET
+307,MAIN STREET,9,Happy Harvest Inc,1,49.282071350000002,-123.100096970000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=307&street=MAIN STREET
+507,MAIN STREET,30,Shun Chi Company Ltd,5,49.280126529999997,-123.100151999999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=507&street=MAIN STREET
+628,MAIN STREET,10,Wai Hui,1,49.278974359999999,-123.099299419999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=628&street=MAIN STREET
+956,MAIN STREET,22,956 Main Street Holdings Ltd,3,49.275872040000003,-123.099499550000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=956&street=MAIN STREET
+1038,MAIN STREET,104,International Business Travelers Hostel Inc,4,49.275187379999998,-123.099539140000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1038&street=MAIN STREET
+2333,MAIN STREET,8,Nay Hee Chan (Nay Chan),1,49.264107009999996,-123.101415340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2333&street=MAIN STREET
+2339,MAIN STREET,29,ThePorter Residences Investments Inc,1,49.263999110000000,-123.101410920000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2339&street=MAIN STREET
+3616,MAIN STREET,6,Teddy Lai & YanHong Chen,3,49.252633609999997,-123.100573080000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3616&street=MAIN STREET
+4453,MAIN STREET,79,Kevington Building Corporation Ltd,1,49.245199249999999,-123.101683080000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4453&street=MAIN STREET
+4515,MAIN STREET,7,Li-Wah Ng & Sik-Wah Ng,8,49.244213400000000,-123.101705760000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4515&street=MAIN STREET
+1218,MELVILLE STREET,6,Huntly Investments Ltd,2,49.287913979999999,-123.124863100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1218&street=MELVILLE STREET
+8656,MONTCALM STREET,10,Jacqueline Ward,1,49.207830250000001,-123.135742089999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8656&street=MONTCALM STREET
+8679,MONTCALM STREET,9,Monarch Properties Ltd,1,49.207568750000000,-123.136632910000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8679&street=MONTCALM STREET
+112,NANAIMO STREET,14,Donald Nip,3,49.283619780000002,-123.056256129999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=112&street=NANAIMO STREET
+1745,NANAIMO STREET,5,Frank Chi-Hung Lee (Frank Lee),6,49.268928510000002,-123.057009100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1745&street=NANAIMO STREET
+200,NELSON STREET,9,Seaboard Life Insurance Co,1,49.275878440000000,-123.118921670000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=200&street=NELSON STREET
+654,NELSON STREET,82,654 Nelson Street Hotel (OP) Limited Partnership,1,49.278958729999999,-123.122848129999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=654&street=NELSON STREET
+1115,NELSON STREET,221,The Bloom Group Community Services Society,4,49.283277630000001,-123.128676580000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1115&street=NELSON STREET
+1735,NELSON STREET,62,Shelmarjay Holdings Ltd,1,49.288907569999999,-123.137374570000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1735&street=NELSON STREET
+852,NICOLA STREET,16,HWP 852 Nicola Ltd,1,49.287959260000001,-123.131780199999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=852&street=NICOLA STREET
+1250,NICOLA STREET,26,Dranly Holdings Ltd,1,49.283793910000000,-123.138066220000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1250&street=NICOLA STREET
+2925,OAK STREET,7,Golden Pacific Holdings Ltd,1,49.259372640000002,-123.127028960000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2925&street=OAK STREET
+3108,OAK STREET,22,473788 B C Ltd,4,49.257623750000000,-123.126824560000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3108&street=OAK STREET
+3981,OAK STREET,49,British Columbia Easter Seal Society,5,49.250154109999997,-123.128013159999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3981&street=OAK STREET
+8656,OAK STREET,34,AP Canada Investment Corporation,2,49.207715299999997,-123.129865110000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8656&street=OAK STREET
+2625,OXFORD STREET,5,Grant Hanson,4,49.285955960000003,-123.051205499999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2625&street=OXFORD STREET
+1862,PARKER STREET,5,William Squibb,2,49.275460750000001,-123.066152399999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1862&street=PARKER STREET
+1188,PENDRELL STREET,31,Coast Foundation Society (1974),1,49.282153540000003,-123.132180280000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1188&street=PENDRELL STREET
+1255,PENDRELL STREET,114,M M C Investment Corporation,1,49.283175300000003,-123.132822050000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1255&street=PENDRELL STREET
+1445,PENDRELL STREET,43,Thomas Downie Holdings Ltd,1,49.285081110000000,-123.135761320000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1445&street=PENDRELL STREET
+1775,PENDRELL STREET,19,Elisabeth Yee,7,49.287885650000000,-123.140085390000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1775&street=PENDRELL STREET
+4195,PERRY STREET,10,Maiway Investment Ltd,2,49.247899359999998,-123.071704840000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4195&street=PERRY STREET
+2456,POINT GREY ROAD,14,Richard Maurice Desilets (Richard Desilets),2,49.273293510000002,-123.160989930000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2456&street=POINT GREY ROAD
+55,POWELL STREET,25,55 Powell St Holdings Ltd,1,49.283434870000001,-123.102819410000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=55&street=POWELL STREET
+259,POWELL STREET,35,259 Powell Holdings Ltd,6,49.283411139999998,-123.098105110000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=259&street=POWELL STREET
+316,POWELL STREET,79,0781178 BC Ltd,1,49.282881650000000,-123.097191220000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=316&street=POWELL STREET
+326,POWELL STREET,39,Cheng Hing Kai (Cheng Kai),1,49.282877780000000,-123.096981520000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=326&street=POWELL STREET
+329,POWELL STREET,36,The Bloom Group Community Services Society,1,49.283390689999997,-123.096967430000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=329&street=POWELL STREET
+376,POWELL STREET,50,Lookout Housing and Health Society,1,49.282861019999999,-123.096049820000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=376&street=POWELL STREET
+556,POWELL STREET,22,Deborah Jane Harden & Robert William Harden,2,49.282782900000001,-123.092044320000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=556&street=POWELL STREET
+1516,POWELL STREET,101,Atira Women's Resource Society,25,49.282983960000003,-123.073353020000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1516&street=POWELL STREET
+1895,POWELL STREET,41,Port Town Investments (Nominee) Ltd,1,49.284855380000003,-123.066108610000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1895&street=POWELL STREET
+2919,PRINCE EDWARD STREET,8,581909 BC Ltd,2,49.258950130000002,-123.096583710000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2919&street=PRINCE EDWARD STREET
+2975,PRINCE EDWARD STREET,17,581909 BC Ltd,1,49.258605459999998,-123.096650090000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2975&street=PRINCE EDWARD STREET
+111,PRINCESS AVENUE,139,PHS Community Services Society,1,49.283683979999999,-123.091795739999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=111&street=PRINCESS AVENUE
+220,PRINCESS AVENUE,147,Raincity Housing and Support Society,8,49.282753599999999,-123.090897020000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=220&street=PRINCESS AVENUE
+230,PRINCESS AVENUE,13,230 Princess Ave Holdings Ltd,1,49.282496180000003,-123.091193489999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=230&street=PRINCESS AVENUE
+854,RENFREW STREET,5,Trasolini & Eng Construction Ltd,1,49.276920779999998,-123.043641220000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=854&street=RENFREW STREET
+440,RICHARDS STREET,10,Trinity Holdings Ltd,5,49.283403839999998,-123.112516850000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=440&street=RICHARDS STREET
+788,RICHARDS STREET,46,Coast Foundation Society (1974),7,49.280389820000003,-123.117195560000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=788&street=RICHARDS STREET
+1030,ROBSON STREET,8,Jack Eng,1,49.283542529999998,-123.123787210000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1030&street=ROBSON STREET
+1100,SALSBURY DRIVE,12,629623 BC Ltd,1,49.274567939999997,-123.067128600000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1100&street=SALSBURY DRIVE
+695,SE MARINE DRIVE,79,Fraser Marine Drive Holdings Inc,1,49.211290679999998,-123.091535620000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=695&street=SE MARINE DRIVE
+1319,SE MARINE DRIVE,6,May Tang,1,49.211353050000000,-123.079305480000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1319&street=SE MARINE DRIVE
+8770,SELKIRK STREET,26,Sweet Home Holdings Ltd & Fong C Wing,1,49.205814699999998,-123.132887040000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=8770&street=SELKIRK STREET
+1067,SEYMOUR STREET,110,City of Vancouver,4,49.277968049999998,-123.123551770000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1067&street=SEYMOUR STREET
+1203,SEYMOUR STREET,26,Shirley S Lam & Tai Chuen Lam & Yuet Ha Cheung,1,49.276535639999999,-123.125562250000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1203&street=SEYMOUR STREET
+716,SMITHE STREET,41,City of Vancouver,8,49.280356169999997,-123.121955340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=716&street=SMITHE STREET
+2772,SPRUCE STREET,18,Golden Spruce Investments Inc,1,49.260880680000000,-123.128653450000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2772&street=SPRUCE STREET
+2502,ST. GEORGE STREET,12,Hyung Kim & Ae Kim,1,49.262189270000000,-123.092758739999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2502&street=ST. GEORGE STREET
+2043,STAINSBURY AVENUE,8,Mary Jane Holz (Mary Holz),4,49.251314610000001,-123.063886040000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2043&street=STAINSBURY AVENUE
+1005,STATION STREET,80,PHS Community Services Society,1,49.275677500000000,-123.099486830000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1005&street=STATION STREET
+2490,STEPHENS STREET,30,Jim Bonnis,1,49.264290570000000,-123.166170640000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2490&street=STEPHENS STREET
+815,SW MARINE DRIVE,18,S-1188 Holdings Ltd,1,49.207355649999997,-123.124624130000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=815&street=SW MARINE DRIVE
+998,THURLOW STREET,41,Lucky ZA Investments Ltd,2,49.282543550000000,-123.127534659999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=998&street=THURLOW STREET
+251,UNION STREET,86,SUCCESS Housing Society,4,49.277881929999999,-123.097908600000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=251&street=UNION STREET
+1775,VENABLES STREET,8,Wing Kuo Lee (Wing Lee),3,49.276906210000000,-123.068988320000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1775&street=VENABLES STREET
+1824,VENABLES STREET,7,Hawthorne Charitable Foundation,1,49.276365630000001,-123.066961610000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1824&street=VENABLES STREET
+910,VICTORIA DRIVE,6,Rosalee McRae & Brian Naphtali,1,49.276433150000003,-123.065339460000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=910&street=VICTORIA DRIVE
+942,VICTORIA DRIVE,5,Lynn Wilcott & Shirley Wilcott,3,49.276058949999999,-123.065358739999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=942&street=VICTORIA DRIVE
+1110,VICTORIA DRIVE,9,John Engleman & Penelope Engleman,2,49.274582870000003,-123.065294320000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1110&street=VICTORIA DRIVE
+2816,VICTORIA DRIVE,5,Thomas Chan,5,49.259201930000003,-123.065561340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2816&street=VICTORIA DRIVE
+5179,VICTORIA DRIVE,5,King Day Holdings Ltd,1,49.237756789999999,-123.065803740000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5179&street=VICTORIA DRIVE
+1550,VINE STREET,23,Vine Street Properties Ltd,2,49.271976420000001,-123.157145390000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1550&street=VINE STREET
+1755,VINE STREET,11,Ajmer Singh Siddoo (Ajmer Siddoo),2,49.270219269999998,-123.157681830000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1755&street=VINE STREET
+2020,VINE STREET,10,Yen Hoy Enterprises Ltd Et Al,2,49.267936229999997,-123.157330509999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2020&street=VINE STREET
+5450,VINE STREET,69,Jean Matheson,1,49.236831729999999,-123.159460589999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5450&street=VINE STREET
+110,W 10TH AVENUE,35,Blue Island Enterprises Ltd,1,49.261850469999999,-123.107139399999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=110&street=W 10TH AVENUE
+955,W 10TH AVENUE,23,Mattan Holdings Ltd,5,49.262666809999999,-123.125316889999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=955&street=W 10TH AVENUE
+1137,W 10TH AVENUE,11,565169 BC Ltd,1,49.262745979999998,-123.130115270000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1137&street=W 10TH AVENUE
+1240,W 10TH AVENUE,41,Forbes Apartments Ltd,1,49.262265409999998,-123.132634870000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1240&street=W 10TH AVENUE
+1435,W 10TH AVENUE,8,Frederick Lee,1,49.262862470000002,-123.137014600000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1435&street=W 10TH AVENUE
+4336,W 10TH AVENUE,15,HWP 4336 10th Ave Ltd,1,49.263454979999999,-123.204220199999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4336&street=W 10TH AVENUE
+4615,W 10TH AVENUE,13,650005 BC Ltd,3,49.264139759999999,-123.212833420000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4615&street=W 10TH AVENUE
+4660,W 10TH AVENUE,73,Mason Investments Ltd,1,49.263625410000003,-123.214446190000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4660&street=W 10TH AVENUE
+1396,W 11TH AVENUE,20,Ideal Holdings 1386 Ltd,5,49.261456430000003,-123.135948420000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1396&street=W 11TH AVENUE
+1715,W 11TH AVENUE,65,0971967 BC LTD,1,49.262053899999998,-123.144332990000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1715&street=W 11TH AVENUE
+500,W 12TH AVENUE,118,Plaza 500 Hotels Ltd,5,49.260103610000002,-123.115462410000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=500&street=W 12TH AVENUE
+1020,W 12TH AVENUE,26,111 Oakview Inc,1,49.260306600000000,-123.127614420000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1020&street=W 12TH AVENUE
+1610,W 12TH AVENUE,20,Huntington Enterprise Ltd,2,49.260524449999998,-123.141595150000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1610&street=W 12TH AVENUE
+1827,W 12TH AVENUE,7,Mo Tang & Raymond Ho & Sharon Ho & Deborah Hunter & Alan Mah & Jack Tang,1,49.261166780000003,-123.146535040000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1827&street=W 12TH AVENUE
+1886,W 12TH AVENUE,8,Shirley Wilcott,2,49.260625890000000,-123.147800730000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1886&street=W 12TH AVENUE
+1936,W 12TH AVENUE,5,Maria B Pressler (Maria Pressler),1,49.260652749999998,-123.149132769999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1936&street=W 12TH AVENUE
+223,W 13TH AVENUE,6,Ka Yiu Yu & Shao Ping Yu,4,49.259624389999999,-123.110219630000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=223&street=W 13TH AVENUE
+1225,W 13TH AVENUE,15,Wong's Apartment Group Inc,4,49.259979370000003,-123.132168100000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1225&street=W 13TH AVENUE
+1325,W 13TH AVENUE,9,South Granville Holdings Ltd,5,49.260015729999999,-123.134536250000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1325&street=W 13TH AVENUE
+1510,W 13TH AVENUE,8,No 198 Cathedral Ventures Ltd,3,49.259699730000001,-123.139131340000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1510&street=W 13TH AVENUE
+1555,W 13TH AVENUE,9,Karlo Kozy,4,49.260108010000003,-123.140096590000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1555&street=W 13TH AVENUE
+1625,W 13TH AVENUE,96,Moneyloi Properties Ltd,4,49.260124849999997,-123.141406690000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1625&street=W 13TH AVENUE
+1805,W 13TH AVENUE,6,Lance Yen & Michelle Yen,1,49.260203449999999,-123.146144310000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1805&street=W 13TH AVENUE
+975,W 14TH AVENUE,6,900 West 14th Holdings Inc,1,49.258959009999998,-123.126086590000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=975&street=W 14TH AVENUE
+1107,W 14TH AVENUE,32,Wimming Canada Ltd,2,49.259016449999997,-123.129404150000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1107&street=W 14TH AVENUE
+1234,W 14TH AVENUE,44,0832554 BC Ltd,3,49.258539599999999,-123.132632310000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1234&street=W 14TH AVENUE
+1255,W 14TH AVENUE,60,Vancouver Park Lane Towers Ltd,3,49.259066939999997,-123.132830810000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1255&street=W 14TH AVENUE
+1895,W 14TH AVENUE,5,Modavi Enterprises Inc & Mal Investment Inc,2,49.259309989999998,-123.148076300000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1895&street=W 14TH AVENUE
+1379,W 15TH AVENUE,15,Edward K Ellis (Edward Ellis),2,49.258191969999999,-123.135662430000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1379&street=W 15TH AVENUE
+1500,W 16TH AVENUE,6,Town House Apartments Ltd,3,49.256840930000003,-123.139231090000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1500&street=W 16TH AVENUE
+3595,W 17TH AVENUE,51,Coast Foundation Society (1974),2,49.257583029999999,-123.184697090000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3595&street=W 17TH AVENUE
+2295,W 1ST AVENUE,11,Ewa Kaminski,3,49.271090739999998,-123.157178329999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2295&street=W 1ST AVENUE
+3600,W 27TH AVENUE,7,Oy Hee Mah (Oy Mah),2,49.247847350000001,-123.185538300000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3600&street=W 27TH AVENUE
+2196,W 2ND AVENUE,6,Gum Fat Lum & Grena Lum,2,49.269659830000002,-123.154797919999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2196&street=W 2ND AVENUE
+2220,W 2ND AVENUE,10,Dionsyssios Stassinopoulos & Gus Stassinopoulos & Jimmy Stassinopoulos,2,49.269680690000001,-123.155814370000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2220&street=W 2ND AVENUE
+2233,W 2ND AVENUE,20,Margarete E Reimer & Gunther W Lukaschus,1,49.270190620000001,-123.155904789999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2233&street=W 2ND AVENUE
+2263,W 2ND AVENUE,9,Enhancement Properties Ltd,1,49.270195469999997,-123.156316350000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2263&street=W 2ND AVENUE
+2455,W 2ND AVENUE,32,Climar Development Co Ltd,3,49.270280509999999,-123.161534010000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2455&street=W 2ND AVENUE
+2505,W 2ND AVENUE,5,Chun-Han Yen & Chih-Hsien Yen,2,49.270293180000003,-123.162424540000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2505&street=W 2ND AVENUE
+2155,W 38TH AVENUE,28,Manet Investments Limited,3,49.237623999999997,-123.156687530000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2155&street=W 38TH AVENUE
+1929,W 3RD AVENUE,53,West Third Investments Ltd,11,49.269206390000001,-123.148721800000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1929&street=W 3RD AVENUE
+2072,W 3RD AVENUE,10,Alexander Silvan & Agnes Silvan,2,49.268737600000001,-123.152249930000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2072&street=W 3RD AVENUE
+2355,W 3RD AVENUE,10,Zoron Investments Ltd,1,49.269350609999996,-123.158772850000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2355&street=W 3RD AVENUE
+2120,W 44TH AVENUE,46,Cavalier Manor Holding Co Ltd,1,49.231561700000000,-123.157293850000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2120&street=W 44TH AVENUE
+2165,W 4TH AVENUE,8,Tsoromocos Holdings Inc,2,49.268410119999999,-123.154124560000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2165&street=W 4TH AVENUE
+2623,W 4TH AVENUE,5,John Balomenos,1,49.268542400000001,-123.165101290000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2623&street=W 4TH AVENUE
+3285,W 4TH AVENUE,25,Kit S Hung & Shuk Y Hung,1,49.268739910000001,-123.177144729999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3285&street=W 4TH AVENUE
+3612,W 4TH AVENUE,9,Earthnest Holding Ltd,1,49.268383900000003,-123.183987640000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3612&street=W 4TH AVENUE
+2140,W 5TH AVENUE,22,Harkerson B C Wholesale Lumber Ltd,3,49.267004280000002,-123.153687170000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2140&street=W 5TH AVENUE
+2154,W 5TH AVENUE,7,Dr Michael K Ma & Annie Ma,1,49.267010929999998,-123.154102310000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2154&street=W 5TH AVENUE
+2545,W 5TH AVENUE,6,Mike Kefalas & Anna Kefalas,1,49.267695709999998,-123.163366130000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2545&street=W 5TH AVENUE
+2285,W 6TH AVENUE,20,Rio Lane Holdings Ltd,2,49.266728409999999,-123.157131460000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2285&street=W 6TH AVENUE
+2292,W 6TH AVENUE,6,0734358 BC Ltd,4,49.266307099999999,-123.157370390000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2292&street=W 6TH AVENUE
+2305,W 6TH AVENUE,8,Krishna Bagga & Rakesh Bagga,3,49.266738719999999,-123.157813680000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2305&street=W 6TH AVENUE
+1235,W 70TH AVENUE,11,Goyal Holdings Corp,1,49.208753020000003,-123.133620760000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1235&street=W 70TH AVENUE
+1425,W 70TH AVENUE,6,0924733 BC Ltd,3,49.208830010000000,-123.138382980000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1425&street=W 70TH AVENUE
+1330,W 71ST AVENUE,23,Karnall Singh Sidhu (Karnall Sidhu),5,49.206726019999998,-123.135430110000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1330&street=W 71ST AVENUE
+1339,W 71ST AVENUE,8,Forestom Corporation,1,49.207263550000000,-123.135732270000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1339&street=W 71ST AVENUE
+361,W 7TH AVENUE,8,Surefreeze Refrigeration & Air Condition Ltd,4,49.265057239999997,-123.112284770000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=361&street=W 7TH AVENUE
+917,W 7TH AVENUE,50,Johnston Allen Properties Ltd,1,49.265353490000003,-123.124683970000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=917&street=W 7TH AVENUE
+11,W BROADWAY,15,Mann Kuan,2,49.263235600000002,-123.105349610000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=11&street=W BROADWAY
+1073,W BROADWAY,6,Lemerald Investment Corp,1,49.263718140000002,-123.128337239999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1073&street=W BROADWAY
+1529,W BROADWAY,13,Intercity Developments Ltd,2,49.263904060000002,-123.139738110000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1529&street=W BROADWAY
+2297,W BROADWAY,7,Tang Lim Holdings Co Ltd,1,49.264199910000002,-123.157423850000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2297&street=W BROADWAY
+2341,W BROADWAY,9,Anthanasious Voutsilakos & Vasiliki Voutsilakos,1,49.264200440000003,-123.158337739999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2341&street=W BROADWAY
+2425,W BROADWAY,9,Maro Investments Ltd,3,49.264235380000002,-123.160705380000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2425&street=W BROADWAY
+2480,W BROADWAY,24,GMCW Investments Ltd,4,49.263656550000000,-123.161973630000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2480&street=W BROADWAY
+2485,W BROADWAY,32,bcIMC Realty Corporation,4,49.264265840000000,-123.161623340000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2485&street=W BROADWAY
+2879,W BROADWAY,8,Ted Tsoromocos,4,49.264354740000002,-123.169955329999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2879&street=W BROADWAY
+3355,W BROADWAY,6,Petrakis Enterprises Ltd,3,49.264507879999996,-123.179037440000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3355&street=W BROADWAY
+50,W CORDOVA STREET,136,0697418 BC Ltd,3,49.282467799999999,-123.105855289999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=50&street=W CORDOVA STREET
+57,W CORDOVA STREET,54,Fortin Holdings Ltd,3,49.282997309999999,-123.105692110000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=57&street=W CORDOVA STREET
+7,W HASTINGS STREET,41,PHS Community Services Society,2,49.281869110000002,-123.104941620000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=7&street=W HASTINGS STREET
+18,W HASTINGS STREET,30,Reliance Properties Ltd,2,49.281408310000003,-123.105208730000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=18&street=W HASTINGS STREET
+29,W HASTINGS STREET,42,Central City Foundation,2,49.281991280000000,-123.105605410000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=29&street=W HASTINGS STREET
+33,W HASTINGS STREET,31,0927000 B C Ltd,2,49.282009629999997,-123.105709940000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=33&street=W HASTINGS STREET
+35,W HASTINGS STREET,32,Laurelwood Ventures Inc,10,49.282031549999999,-123.105831670000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=35&street=W HASTINGS STREET
+116,W HASTINGS STREET,28,116 West Hastings Holdings Ltd,1,49.281841489999998,-123.108014490000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=116&street=W HASTINGS STREET
+102,WATER STREET,79,Atira Women's Resource Society,16,49.283643529999999,-123.106767920000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=102&street=WATER STREET
+122,WATER STREET,140,Atira Women's Resource Society,43,49.283692739999999,-123.107038340000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=122&street=WATER STREET
+1960,WATERLOO STREET,8,Mrs N R Balfour Estate,1,49.268772570000003,-123.179329400000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1960&street=WATERLOO STREET
+3510,WELLINGTON AVENUE,5,Chee Mon Chu & Jean Chu,2,49.239649589999999,-123.030055660000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3510&street=WELLINGTON AVENUE
+3538,WINDSOR STREET,24,John Ma & Augusta Ma,2,49.253391720000003,-123.083509340000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3538&street=WINDSOR STREET
+512,WOODLAND DRIVE,16,Yin F Tong (Yin Tong),1,49.279958950000001,-123.072273220000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=512&street=WOODLAND DRIVE
+1601,YEW STREET,10,PY -1 Investments Ltd,1,49.271438430000003,-123.155472960000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1601&street=YEW STREET
+1728,YEW STREET,10,Mgey Investco 604.1 Inc,2,49.270539860000000,-123.154862270000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=1728&street=YEW STREET
+4620,YEW STREET,32,Valley Street Property Ltd,2,49.244995990000000,-123.154456280000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=4620&street=YEW STREET
+5343,YEW STREET,27,1076803 BC Ltd,3,49.237785230000000,-123.158812540000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5343&street=YEW STREET
+5616,YEW STREET,13,Janet Wai Chun Li (Janet Li),2,49.235419700000001,-123.157347300000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=5616&street=YEW STREET
+2275,YORK AVENUE,9,York Street Properties Ltd,5,49.271968870000002,-123.156724049999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2275&street=YORK AVENUE
+2280,YORK AVENUE,7,Fanly S Lum (Fanly Lum),1,49.271462130000003,-123.156943200000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2280&street=YORK AVENUE
+2336,YORK AVENUE,35,Wall Financial Corporation,1,49.271483740000001,-123.158275280000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2336&street=YORK AVENUE
+2341,YORK AVENUE,29,New York Apartment Holdings Inc,7,49.272002270000002,-123.158672020000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2341&street=YORK AVENUE
+2366,YORK AVENUE,11,Martin & Susan Sally,3,49.271494150000002,-123.158892540000000,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2366&street=YORK AVENUE
+2425,YORK AVENUE,24,Gordon Epp,2,49.272026830000001,-123.160413809999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2425&street=YORK AVENUE
+2476,YORK AVENUE,58,York Avenue Investments Ltd,1,49.271543899999998,-123.161892089999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2476&street=YORK AVENUE
+2525,YORK AVENUE,11,John Cantrell,1,49.272063889999998,-123.162788019999990,http://app.vancouver.ca/RPS_Net/Default.aspx?num=2525&street=YORK AVENUE
+3460,YUKON STREET,5,Community Living Society,1,49.254173270000003,-123.112149740000010,http://app.vancouver.ca/RPS_Net/Default.aspx?num=3460&street=YUKON STREET
