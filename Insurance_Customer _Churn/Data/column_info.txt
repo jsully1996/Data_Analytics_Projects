@@ -1,0 +1,50 @@
+
+•	AGENCY_ID
+•	PRIMARY_AGENCY_ID – (contains missing values) master agency if part of group
+•	PROD_ABBR – 33 products of which 14 are CL and 19 are PL
+•	PROD_LINE – commercial lines (CL) or personal lines (PL)
+•	STATE_ABBR
+•	STAT_PROFILE_DATE_YEAR – data starts in mid-2005 and continues into 2015
+•	RETENTION_POLY_QTY – current number of policies that are still active from previous year
+•	POLY_INFORCE_QTY – number of policies active for that year
+•	PREV_POLY_INFORCE_QTY – (contains missing values) number of policies active in the previous year
+•	NB_WRTN_PREM_AMT – new business in written premium
+•	WRTN_PREM_AMT – total written premium
+•	PREV_WRTN_PREM_AMT – (contains missing values) written premium during the same period in the previous year
+•	PRD_ERND_PREM_AMT – amount of premium taken in
+•	PRD_INCRD_LOSSES_AMT – losses
+•	MONTHS – number of months included in the data for that year; the original data was monthly and some months were missing so the aggregate doesn’t make up the entire year if the months value is less than 12
+•	RETENTION_RATIO – (computed & contains missing values) computed for each row in the data as RETENTION_POLY_QTY / PREV_POLY_INFORCE_QTY; therefore it’s a granular measure of the retention for that agency writing that particular product in that particular state from the previous year
+•	LOSS_RATIO – (computed & contains missing values) computed for each row in the data as PRD_INCRD_LOSSES_AMT / WRTN_PREM_AMT; currently I’m only computing results where the WRTN_PREM_AMT is greater than 0; however there are many cases where there are losses but no premium maybe from a previous claim that’s still being paid, so I included codes to indicate whether there are positive or negative losses on zero premiums; they are located at the end of this document
+•	LOSS_RATIO_3YR – (computed & contains missing values) computed by agency by line of business by year for the three year period ending in that year, if there is data for three years, otherwise the two years or one year of data available; to make this more tangible, the first complete year of data we have for an agency will have the loss ratio for that year; the second complete year of data will have the mean loss ratio for that year and the previous year; the third complete year of data will have the mean loss ratio for those three years; then the fourth and greater will have the mean of the three year period ending in that year; note that the mean loss ratios are computed independently for PL and CL
+•	GROWTH_RATE_3YR – (computed & contains missing values) computed by agency by line of business by year for the three year period ending in that year;  measures the average growth in written premium for that agency in that line of business; only computes results for agencies that have data for the entire range of years; since the measure is over three years of growth, there needs to be a base year to be used as a standard so four years of data are needed; in order to include as many results as possible, the PREV_WRTN_PREM_AMT column is used if it exists in the first year of data available, so that it can be used as a base year, otherwise the WRTN_PREM_AMT is the only column used
+•	AGENCY_APPOINTMENT_YEAR – (contains missing values) year the agency started doing business with Azure
+•	ACTIVE_PRODUCERS – (contains missing values) number of active producers in the agency
+•	MAX_AGE – (contains missing values & results may not be accurate) maximum age producer at that agency
+•	MIN_AGE – (contains missing values) minimum age producer at that agency
+•	VENDOR_IND – indicator column to specify whether the agency subscribes to a vendor
+•	VENDOR – (contains missing values) the vendor that the agency subscribes to
+•	PL_START_YEAR – (contains missing values) year the agency started using the PL vendor
+•	PL_END_YEAR – (contains missing values) year the agency stopped using the PL vendor
+•	COMMISIONS_START_YEAR – (contains missing values) year the agency started using the COMMISIONS vendor
+•	COMMISIONS_END_YEAR – (contains missing values) year the agency stopped using the COMMISIONS vendor
+•	CL_START_YEAR – (contains missing values) year the agency started using the CL vendor
+•	CL_END_YEAR – (contains missing values) year the agency stopped using the CL vendor
+•	ACTIVITY_NOTES_START_YEAR – (contains missing values) year the agency started using the ACTIVITY NOTES vendor
+•	ACTIVITY_NOTES_END_YEAR – (contains missing values) year the agency stopped using the ACTIVITY NOTES vendor
+•	CL_BOUND_CT_MDS – (contains missing values) number of bound policies quoted through a MDS (probably a data recording error, should be DSM) in the current year to date, that is the first six months of 2015, in commercial lines
+•	CL_QUO_CT_MDS – (contains missing values) number of quoted policies through a MDS (probably a data recording error, should be DSM) in the current year to date, that is the first six months of 2015, in commercial lines
+•	CL_BOUND_CT_SBZ – (contains missing values) number of bound policies quoted through a SBZ in the current year to date, that is the first six months of 2015, in commercial lines
+•	CL_QUO_CT_SBZ – (contains missing values) number of quoted policies through a SBZ in the current year to date, that is the first six months of 2015, in commercial lines 
+•	CL_BOUND_CT_eQT – (contains missing values) number of bound policies quoted through an eQT in the current year to date, that is the first six months of 2015, in commercial lines
+•	CL_QUO_CT_eQT – (contains missing values) number of quoted policies though an eQT in the current year to date, that is the first six months of 2015, in commercial lines
+•	PL_BOUND_CT_ELINKS – (contains missing values) number of bound policies quoted through ELINKS since September 2013 in personal lines
+•	PL_QUO_CT_ELINKS – (contains missing values)  number of quoted policies though ELINKS since September 2013 in personal lines 
+•	PL_BOUND_CT_PLRANK – (contains missing values) number of bound policies quoted through PLRANK since September 2013 in personal lines
+•	PL_QUO_CT_PLRANK – (contains missing values)  number of quoted policies though PLRANK since September 2013 in personal lines
+•	PL_BOUND_CT_eQTte – (contains missing values) number of bound policies quoted through eQTte since September 2013 in personal lines
+•	PL_QUO_CT_eQTte – (contains missing values)  number of quoted policies though eQTte since September 2013 in personal lines 
+•	PL_BOUND_CT_APPLIED – (contains missing values) number of bound policies quoted through APPLIED since September 2013 in personal lines
+•	PL_QUO_CT_APPLIED – (contains missing values)  number of quoted policies though APPLIED since September 2013 in personal lines
+•	PL_BOUND_CT_TRANSACTNOW – (contains missing values) number of bound policies quoted through TRANSACTNOW since September 2013 in personal lines
+•	PL_QUO_CT_TRANSACTNOW – (contains missing values)  number of quoted policies though TRANSACTNOW since September 2013 in personal lines
