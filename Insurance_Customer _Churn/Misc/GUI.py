@@ -38,7 +38,7 @@ class Applicaiton():
         self.content.configure(width = 400)
         self.content.grid(column = 0, row = 0, sticky=(N, S, E, W))        
         self.createWidgets()
-        self.examples = 100 #self.emp.shape[0]
+        self.examples = 100 
         self.width = 30
         
         
