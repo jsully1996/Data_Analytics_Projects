@@ -36,8 +36,7 @@ class Applicaiton():
         gui_style.configure('My.TFrame', background='#000000')
         self.content = ttk.Frame(root, padding=(5,5,12,12), style = 'My.TFrame')
         self.content.configure(width = 400)
-        self.content.grid(column = 0, row = 0, sticky=(N, S, E, W))
-        
+        self.content.grid(column = 0, row = 0, sticky=(N, S, E, W))        
         self.createWidgets()
         self.examples = 100 #self.emp.shape[0]
         self.width = 30
