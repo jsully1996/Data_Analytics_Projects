@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "cells": [
+    {
+      "type": "cs",
+      "input": "\n# Plot the below in Flow \nplot (g) -> g(\n  g.rect(\n    g.position \"Crime_Type\", \"Arrest_rate\"\n    g.fillColor g.value 'blue'\n    g.fillOpacity g.value 0.75\n  )\n  g.rect(\n    g.position \"Crime_Type\", \"Crime_proportion\"\n    g.fillColor g.value 'red'\n    g.fillOpacity g.value 0.65\n  )\n  g.from inspect \"data\", getFrame \"Crime_type\"\n)"
+    }
+  ]
+}
