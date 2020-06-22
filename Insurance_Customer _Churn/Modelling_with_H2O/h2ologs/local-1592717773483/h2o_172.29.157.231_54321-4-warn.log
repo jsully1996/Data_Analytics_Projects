@@ -1,0 +1,5 @@
+06-20 22:36:28.590 172.29.157.231:54321  5576   Thread-4  WARN: Flatfile configuration does not include self: /172.29.157.231:54321, but contains []
+06-20 22:37:18.074 172.29.157.231:54321  5576   FJ-1-1    WARN: Test/Validation dataset is missing column 'Effective To Date': substituting in a column of NaN
+06-20 22:37:18.076 172.29.157.231:54321  5576   FJ-1-1    WARN: Test/Validation dataset is missing column 'CityIndex': substituting in a column of NaN
+06-21 00:11:32.537 172.29.157.231:54321  5576   FJ-1-5    WARN: Test/Validation dataset is missing column 'Effective To Date': substituting in a column of NaN
+06-21 00:11:32.545 172.29.157.231:54321  5576   FJ-1-5    WARN: Test/Validation dataset is missing column 'CityIndex': substituting in a column of NaN

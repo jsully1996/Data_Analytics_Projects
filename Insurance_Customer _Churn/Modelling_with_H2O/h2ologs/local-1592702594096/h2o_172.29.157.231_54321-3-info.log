@@ -1,0 +1,183 @@
+06-20 18:27:31.591 172.29.157.231:54321  30629  Thread-4  INFO: ----- H2O started  -----
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Build git branch: rel-zahradnik
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Build git hash: f174ca00df37c3fb690476d40a69599622b71d88
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Build git describe: jenkins-3.30.0.3-95-gf174ca0
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Build project version: 3.30.0.4
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Build age: 19 days
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Built by: 'jenkins'
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Built on: '2020-06-01 15:15:06'
+06-20 18:27:31.608 172.29.157.231:54321  30629  Thread-4  INFO: Found H2O Core extensions: [HiveTableImporter, StackTraceCollector, XGBoost]
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Processed H2O arguments: [-internal_security_conf_rel_paths, -name, sparkling-water-jim_local-1592702594096, -port_offset, 1, -hdfs_config, /tmp/spark-9d9b6e3e-e022-40ea-9e30-d9bde45055d0/userFiles-994ba72c-c497-46ad-9969-36122fa841e4/hdfs_conf2375740478451793162.xml, -embedded, -quiet, -log_level, INFO, -log_dir, /home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/Modelling_with_H2O/h2ologs/local-1592702594096, -baseport, 54321, -flatfile, /tmp/spark-9d9b6e3e-e022-40ea-9e30-d9bde45055d0/sparkling-water-c7903511-a22a-4517-b9c2-a62c77743817/flatfile.txt]
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Java availableProcessors: 4
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Java heap totalMemory: 344.0 MB
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Java heap maxMemory: 910.5 MB
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Java version: Java 1.8.0_201 (from Oracle Corporation)
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: JVM launch parameters: [-Xmx1g]
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: JVM process id: 30629@jim-Lenovo-ideapad-110-15ISK
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: OS version: Linux 5.3.0-53-generic (amd64)
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Machine physical memory: 7.65 GB
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Machine locale: en_CA
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: X-h2o-cluster-id: 1592702849613
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: User name: 'jim'
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: IPv6 stack selected: false
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Network interface is down: name:docker0 (docker0)
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Network interface is down: name:virbr0 (virbr0)
+06-20 18:27:31.609 172.29.157.231:54321  30629  Thread-4  INFO: Possible IP Address: wlp3s0 (wlp3s0), fe80:0:0:0:c594:1f71:b7c2:3517%wlp3s0
+06-20 18:27:31.610 172.29.157.231:54321  30629  Thread-4  INFO: Possible IP Address: wlp3s0 (wlp3s0), 172.29.157.231
+06-20 18:27:31.610 172.29.157.231:54321  30629  Thread-4  INFO: Possible IP Address: lo (lo), 0:0:0:0:0:0:0:1%lo
+06-20 18:27:31.610 172.29.157.231:54321  30629  Thread-4  INFO: Possible IP Address: lo (lo), 127.0.0.1
+06-20 18:27:31.610 172.29.157.231:54321  30629  Thread-4  INFO: H2O node running in unencrypted mode.
+06-20 18:27:31.612 172.29.157.231:54321  30629  Thread-4  INFO: Internal communication uses port: 54322
+06-20 18:27:31.612 172.29.157.231:54321  30629  Thread-4  INFO: Listening for HTTP and REST traffic on http://172.29.157.231:54321/
+06-20 18:27:31.615 172.29.157.231:54321  30629  Thread-4  WARN: Flatfile configuration does not include self: /172.29.157.231:54321, but contains []
+06-20 18:27:31.615 172.29.157.231:54321  30629  Thread-4  INFO: H2O cloud name: 'sparkling-water-jim_local-1592702594096' on /172.29.157.231:54321, discovery address /225.11.9.22:57611
+06-20 18:27:31.615 172.29.157.231:54321  30629  Thread-4  INFO: If you have trouble connecting, try SSH tunneling from your local machine (e.g., via port 55555):
+06-20 18:27:31.615 172.29.157.231:54321  30629  Thread-4  INFO:   1. Open a terminal and run 'ssh -L 55555:localhost:54321 jim@172.29.157.231'
+06-20 18:27:31.615 172.29.157.231:54321  30629  Thread-4  INFO:   2. Point your browser to http://localhost:55555
+06-20 18:27:33.670 172.29.157.231:54321  30629  Thread-4  INFO: Log dir: '/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/Modelling_with_H2O/h2ologs/local-1592702594096'
+06-20 18:27:33.670 172.29.157.231:54321  30629  Thread-4  INFO: Cur dir: '/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/Modelling_with_H2O'
+06-20 18:27:33.722 172.29.157.231:54321  30629  Thread-4  INFO: Distributed HTTP import not available (import from HTTP/HTTPS will be eager)
+06-20 18:27:33.725 172.29.157.231:54321  30629  Thread-4  INFO: HDFS subsystem successfully initialized
+06-20 18:27:33.733 172.29.157.231:54321  30629  Thread-4  INFO: S3 subsystem successfully initialized
+06-20 18:27:33.767 172.29.157.231:54321  30629  Thread-4  INFO: GCS subsystem successfully initialized
+06-20 18:27:33.767 172.29.157.231:54321  30629  Thread-4  INFO: Flow dir: '/home/jim/h2oflows'
+06-20 18:27:33.796 172.29.157.231:54321  30629  Thread-4  INFO: Cloud of size 1 formed [172.29.157.231/172.29.157.231:54321]
+06-20 18:27:33.848 172.29.157.231:54321  30629  Thread-4  INFO: Registered parsers: [GUESS, ARFF, XLS, SVMLight, AVRO, PARQUET, ORC, CSV]
+06-20 18:27:33.849 172.29.157.231:54321  30629  Thread-4  INFO: HiveTableImporter extension initialized
+06-20 18:27:33.849 172.29.157.231:54321  30629  Thread-4  INFO: StackTraceCollector extension initialized
+06-20 18:27:33.849 172.29.157.231:54321  30629  Thread-4  INFO: XGBoost extension initialized
+06-20 18:27:33.850 172.29.157.231:54321  30629  Thread-4  INFO: Registered 3 core extensions in: 1023ms
+06-20 18:27:33.850 172.29.157.231:54321  30629  Thread-4  INFO: Registered H2O core extensions: [HiveTableImporter, StackTraceCollector, XGBoost]
+06-20 18:27:34.385 172.29.157.231:54321  30629  Thread-4  INFO: Found XGBoost backend with library: xgboost4j_gpu
+06-20 18:27:34.385 172.29.157.231:54321  30629  Thread-4  INFO: XGBoost supported backends: [WITH_GPU, WITH_OMP]
+06-20 18:27:34.584 172.29.157.231:54321  30629  Thread-4  INFO: Registered: 212 REST APIs in: 734ms
+06-20 18:27:34.584 172.29.157.231:54321  30629  Thread-4  INFO: Registered REST API extensions: [XGBoost, Algos, Amazon S3, Sparkling Water REST API Extensions, AutoML, Core V3, TargetEncoder, Core V4]
+06-20 18:27:34.861 172.29.157.231:54321  30629  Thread-4  INFO: Registered: 298 schemas in 276ms
+06-20 18:27:34.861 172.29.157.231:54321  30629  Thread-4  INFO: H2O started in 5355ms
+06-20 18:27:34.861 172.29.157.231:54321  30629  Thread-4  INFO: 
+06-20 18:27:34.862 172.29.157.231:54321  30629  Thread-4  INFO: Open H2O Flow in your web browser: http://172.29.157.231:54321
+06-20 18:27:34.862 172.29.157.231:54321  30629  Thread-4  INFO: 
+06-20 18:27:48.864 172.29.157.231:54321  30629  #33864-56 INFO: POST /3/CloudLock, parms: {reason=Locked from Sparkling Water.}
+06-20 18:27:48.866 172.29.157.231:54321  30629  #33864-56 INFO: Locking cloud to new members, because requested via REST api. Reason: Locked from Sparkling Water.
+06-20 18:27:49.048 172.29.157.231:54321  30629  #33864-57 INFO: POST /99/Rapids, parms: {ast=(setTimeZone "UTC")}
+06-20 18:27:49.425 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/Capabilities/API, parms: {}
+06-20 18:29:37.944 172.29.157.231:54321  30629  #33864-53 INFO: POST /99/Models.bin/, parms: {dir=/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/Misc/models/RF_Insurance_model}
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: water.exceptions.H2OIllegalArgumentException: Illegal argument: dir of function: importModel: water.api.FSIOException: FS IO Failure: 
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR:  accessed path : file:/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer%20_Churn/Misc/models/RF_Insurance_model/ msg: File not found
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at water.api.ModelsHandler.importModel(ModelsHandler.java:220)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at java.lang.reflect.Method.invoke(Method.java:498)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at water.api.Handler.handle(Handler.java:60)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at water.api.RequestServer.serve(RequestServer.java:470)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at water.api.RequestServer.doGeneric(RequestServer.java:301)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at water.api.RequestServer.doPost(RequestServer.java:227)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:848)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:584)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1180)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:512)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1112)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:119)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:134)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at water.webserver.jetty9.Jetty9ServerAdapter$LoginHandler.handle(Jetty9ServerAdapter.java:119)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:119)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:134)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.Server.handle(Server.java:534)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:320)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:251)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:283)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:108)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:93)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.executeProduceConsume(ExecuteProduceConsume.java:303)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceConsume(ExecuteProduceConsume.java:148)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:136)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:671)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at ai.h2o.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:589)
+06-20 18:29:37.966 172.29.157.231:54321  30629  #33864-53 ERRR: 	at java.lang.Thread.run(Thread.java:748)
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: Caught exception: 
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: 
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: ERROR MESSAGE:
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: 
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: Illegal argument: dir of function: importModel: water.api.FSIOException: FS IO Failure: 
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN:  accessed path : file:/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer%20_Churn/Misc/models/RF_Insurance_model/ msg: File not found of class: class water.api.FSIOException
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: 
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN: ; Stacktrace: [water.exceptions.H2OIllegalArgumentException: Illegal argument: dir of function: importModel: water.api.FSIOException: FS IO Failure: 
+06-20 18:29:37.978 172.29.157.231:54321  30629  #33864-53 WARN:  accessed path : file:/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer%20_Churn/Misc/models/RF_Insurance_model/ msg: File not found,     water.api.ModelsHandler.importModel(ModelsHandler.java:220),     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method),     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62),     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43),     java.lang.reflect.Method.invoke(Method.java:498),     water.api.Handler.handle(Handler.java:60),     water.api.RequestServer.serve(RequestServer.java:470),     water.api.RequestServer.doGeneric(RequestServer.java:301),     water.api.RequestServer.doPost(RequestServer.java:227),     javax.servlet.http.HttpServlet.service(HttpServlet.java:707),     javax.servlet.http.HttpServlet.service(HttpServlet.java:790),     ai.h2o.org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:848),     ai.h2o.org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:584),     ai.h2o.org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1180),     ai.h2o.org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:512),     ai.h2o.org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1112),     ai.h2o.org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141),     ai.h2o.org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:119),     ai.h2o.org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:134),     water.webserver.jetty9.Jetty9ServerAdapter$LoginHandler.handle(Jetty9ServerAdapter.java:119),     ai.h2o.org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:119),     ai.h2o.org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:134),     ai.h2o.org.eclipse.jetty.server.Server.handle(Server.java:534),     ai.h2o.org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:320),     ai.h2o.org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:251),     ai.h2o.org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:283),     ai.h2o.org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:108),     ai.h2o.org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:93),     ai.h2o.org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.executeProduceConsume(ExecuteProduceConsume.java:303),     ai.h2o.org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceConsume(ExecuteProduceConsume.java:148),     ai.h2o.org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:136),     ai.h2o.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:671),     ai.h2o.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:589),     java.lang.Thread.run(Thread.java:748)]; Values: {"argument":"dir", "function":"importModel"}
+06-20 18:30:15.910 172.29.157.231:54321  30629  #33864-59 INFO: POST /99/Models.bin/, parms: {dir=/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/Misc/models/RF_Insurance_model/DRF_model_python_1591600273347_1}
+06-20 18:30:16.312 172.29.157.231:54321  30629  #33864-60 INFO: GET /3/Models/DRF_model_python_1591600273347_1, parms: {}
+06-20 19:30:45.240 172.29.157.231:54321  30629  #33864-53 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_19_9469ea0f948dbcead980b3e3e95e48e3, columns=[Customer Lifetime Value,Age,Effective To Date,Income,Monthly Premium Auto,Total Written Premium,Losses,Loss Ratio,Growth Rate,Commissions,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index,Churn]}
+06-20 19:30:45.311 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+06-20 19:30:45.530 172.29.157.231:54321  30629  #33864-53 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=AQAAAAAAAAA=, key=frame_rdd_19_9469ea0f948dbcead980b3e3e95e48e3, column_types=AwMEAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD}
+06-20 19:30:45.577 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/Frames/frame_rdd_19_9469ea0f948dbcead980b3e3e95e48e3/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:30:45.655 172.29.157.231:54321  30629  #33864-60 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_19_9469ea0f948dbcead980b3e3e95e48e3, parms: {}
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: java.lang.IllegalArgumentException: Test/Validation dataset has categorical column 'Effective To Date' which is real-valued in the training data
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at hex.Model.adaptTestForTrain(Model.java:1369)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at hex.Model.adaptTestForTrain(Model.java:1216)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at hex.Model.score(Model.java:1503)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at water.api.ModelMetricsHandler$1.compute2(ModelMetricsHandler.java:396)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at water.H2O$H2OCountedCompleter.compute(H2O.java:1557)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at jsr166y.CountedCompleter.exec(CountedCompleter.java:468)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at jsr166y.ForkJoinTask.doExec(ForkJoinTask.java:263)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at jsr166y.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:974)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at jsr166y.ForkJoinPool.runWorker(ForkJoinPool.java:1477)
+06-20 19:30:45.676 172.29.157.231:54321  30629  FJ-1-1    ERRR: 	at jsr166y.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:104)
+06-20 19:34:38.075 172.29.157.231:54321  30629  #33864-53 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_29_8b100550caecae1c96dceeeeb59f4354, columns=[Customer Lifetime Value,Age,Effective To Date,Income,Monthly Premium Auto,Total Written Premium,Losses,Loss Ratio,Growth Rate,Commissions,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index,Churn]}
+06-20 19:34:38.105 172.29.157.231:54321  30629  #33864-54 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+06-20 19:34:38.135 172.29.157.231:54321  30629  #33864-60 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=AQAAAAAAAAA=, key=frame_rdd_29_8b100550caecae1c96dceeeeb59f4354, column_types=AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD}
+06-20 19:34:38.140 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/Frames/frame_rdd_29_8b100550caecae1c96dceeeeb59f4354/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:34:38.182 172.29.157.231:54321  30629  #33864-54 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_29_8b100550caecae1c96dceeeeb59f4354, parms: {}
+06-20 19:34:38.408 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/Frames/transformation_a790_DRF_model_python_1591600273347_1_on_frame_rdd_29_8b100550caecae1c96dceeeeb59f4354, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:37:56.404 172.29.157.231:54321  30629  #33864-54 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_46_88e576da028341ab51b549b0b42e48ff, columns=[Customer Lifetime Value,Age,Effective To Date,Income,Monthly Premium Auto,Total Written Premium,Losses,Loss Ratio,Growth Rate,Commissions,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index]}
+06-20 19:37:56.432 172.29.157.231:54321  30629  #33864-56 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+06-20 19:37:56.456 172.29.157.231:54321  30629  #33864-54 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=AQAAAAAAAAA=, key=frame_rdd_46_88e576da028341ab51b549b0b42e48ff, column_types=AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM=}
+06-20 19:37:56.461 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/Frames/frame_rdd_46_88e576da028341ab51b549b0b42e48ff/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:37:56.501 172.29.157.231:54321  30629  #33864-58 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_46_88e576da028341ab51b549b0b42e48ff, parms: {}
+06-20 19:37:56.510 172.29.157.231:54321  30629  FJ-1-3    INFO: Test/Validation dataset is missing column 'Churn': substituting in a column of NaN
+06-20 19:37:56.744 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/Frames/transformation_b8fa_DRF_model_python_1591600273347_1_on_frame_rdd_46_88e576da028341ab51b549b0b42e48ff, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:49:36.624 172.29.157.231:54321  30629  #33864-56 INFO: GET /3/Frames/transformation_b8fa_DRF_model_python_1591600273347_1_on_frame_rdd_46_88e576da028341ab51b549b0b42e48ff/summary, parms: {row_count=0}
+06-20 19:49:36.661 172.29.157.231:54321  30629  #33864-60 INFO: GET /3/FrameChunks/transformation_b8fa_DRF_model_python_1591600273347_1_on_frame_rdd_46_88e576da028341ab51b549b0b42e48ff, parms: {}
+06-20 19:51:14.120 172.29.157.231:54321  30629  #33864-59 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_67_8f3b78639b42acd49a6306fc4eed4d66, columns=[Customer Lifetime Value,Age,Effective To Date,Income,Monthly Premium Auto,Total Written Premium,Losses,Loss Ratio,Growth Rate,Commissions,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index,Churn]}
+06-20 19:51:14.167 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+06-20 19:51:14.313 172.29.157.231:54321  30629  #33864-59 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=6AMAAAAAAAA=, key=frame_rdd_67_8f3b78639b42acd49a6306fc4eed4d66, column_types=AwMEAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD}
+06-20 19:51:14.327 172.29.157.231:54321  30629  #33864-56 INFO: GET /3/Frames/frame_rdd_67_8f3b78639b42acd49a6306fc4eed4d66/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:51:14.377 172.29.157.231:54321  30629  #33864-60 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_67_8f3b78639b42acd49a6306fc4eed4d66, parms: {}
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: java.lang.IllegalArgumentException: Test/Validation dataset has categorical column 'Effective To Date' which is real-valued in the training data
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at hex.Model.adaptTestForTrain(Model.java:1369)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at hex.Model.adaptTestForTrain(Model.java:1216)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at hex.Model.score(Model.java:1503)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at water.api.ModelMetricsHandler$1.compute2(ModelMetricsHandler.java:396)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at water.H2O$H2OCountedCompleter.compute(H2O.java:1557)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at jsr166y.CountedCompleter.exec(CountedCompleter.java:468)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at jsr166y.ForkJoinTask.doExec(ForkJoinTask.java:263)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at jsr166y.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:974)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at jsr166y.ForkJoinPool.runWorker(ForkJoinPool.java:1477)
+06-20 19:51:14.378 172.29.157.231:54321  30629  FJ-1-5    ERRR: 	at jsr166y.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:104)
+06-20 19:51:44.567 172.29.157.231:54321  30629  #33864-59 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_77_9fa38f29f9b79755c59c229fb5784246, columns=[Customer Lifetime Value,Age,Effective To Date,Income,Monthly Premium Auto,Total Written Premium,Losses,Loss Ratio,Growth Rate,Commissions,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index,Churn]}
+06-20 19:51:44.611 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+06-20 19:51:44.694 172.29.157.231:54321  30629  #33864-60 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=6AMAAAAAAAA=, key=frame_rdd_77_9fa38f29f9b79755c59c229fb5784246, column_types=AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD}
+06-20 19:51:44.699 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/Frames/frame_rdd_77_9fa38f29f9b79755c59c229fb5784246/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:51:44.734 172.29.157.231:54321  30629  #33864-58 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_77_9fa38f29f9b79755c59c229fb5784246, parms: {}
+06-20 19:51:44.984 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/Frames/transformation_8686_DRF_model_python_1591600273347_1_on_frame_rdd_77_9fa38f29f9b79755c59c229fb5784246, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 19:52:21.080 172.29.157.231:54321  30629  #33864-60 INFO: GET /3/Frames/transformation_8686_DRF_model_python_1591600273347_1_on_frame_rdd_77_9fa38f29f9b79755c59c229fb5784246/summary, parms: {row_count=0}
+06-20 19:52:21.114 172.29.157.231:54321  30629  #33864-58 INFO: GET /3/FrameChunks/transformation_8686_DRF_model_python_1591600273347_1_on_frame_rdd_77_9fa38f29f9b79755c59c229fb5784246, parms: {}
+06-20 19:54:09.034 172.29.157.231:54321  30629  #33864-59 INFO: GET /3/Frames/transformation_8686_DRF_model_python_1591600273347_1_on_frame_rdd_77_9fa38f29f9b79755c59c229fb5784246/summary, parms: {row_count=0}
+06-20 19:54:09.043 172.29.157.231:54321  30629  #33864-58 INFO: GET /3/FrameChunks/transformation_8686_DRF_model_python_1591600273347_1_on_frame_rdd_77_9fa38f29f9b79755c59c229fb5784246, parms: {}
+06-20 20:03:01.213 172.29.157.231:54321  30629  #33864-53 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb, columns=[Customer Lifetime Value,Age,Effective To Date,Income,Monthly Premium Auto,Total Written Premium,Losses,Loss Ratio,Growth Rate,Commissions,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index]}
+06-20 20:03:01.236 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+06-20 20:03:01.262 172.29.157.231:54321  30629  #33864-53 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=AQAAAAAAAAA=, key=frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb, column_types=AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM=}
+06-20 20:03:01.267 172.29.157.231:54321  30629  #33864-56 INFO: GET /3/Frames/frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 20:03:01.312 172.29.157.231:54321  30629  #33864-54 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb, parms: {}
+06-20 20:03:01.313 172.29.157.231:54321  30629  FJ-1-7    INFO: Test/Validation dataset is missing column 'Churn': substituting in a column of NaN
+06-20 20:03:01.543 172.29.157.231:54321  30629  #33864-57 INFO: GET /3/Frames/transformation_ba32_DRF_model_python_1591600273347_1_on_frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+06-20 20:03:01.562 172.29.157.231:54321  30629  #33864-58 INFO: GET /3/Frames/transformation_ba32_DRF_model_python_1591600273347_1_on_frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb/summary, parms: {row_count=0}
+06-20 20:03:01.583 172.29.157.231:54321  30629  #33864-53 INFO: GET /3/FrameChunks/transformation_ba32_DRF_model_python_1591600273347_1_on_frame_rdd_131_b672ea7d2d5a02978fcb4b9f6b5a42bb, parms: {}
+06-20 22:35:09.064 172.29.157.231:54321  30629  #33864-53 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_477_be289d6f7b0041771891bcf296e4309, columns=[Age,Commissions,Customer Lifetime Value,Effective to Date,Growth Rate,Income,Loss Ratio,Losses,Monthly Premium Auto,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,Total Written Premium,City Index,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index]}
+06-20 22:35:42.331 172.29.157.231:54321  30629  Thread-4  FATAL: Extensions already registered
+06-20 22:35:42.396 172.29.157.231:54321  30629  Thread-4  FATAL: Stacktrace: 
+06-20 22:35:42.396 172.29.157.231:54321  30629  Thread-4  FATAL: [java.lang.Thread.getStackTrace(Thread.java:1559), water.H2O.fail(H2O.java:1258), water.H2O.fail(H2O.java:1284), water.ExtensionManager.registerCoreExtensions(ExtensionManager.java:97), water.H2O.main(H2O.java:2152), water.H2OStarter.start(H2OStarter.java:22), water.H2OStarter.start(H2OStarter.java:52), org.apache.spark.h2o.backends.internal.InternalH2OBackend$.org$apache$spark$h2o$backends$internal$InternalH2OBackend$$startSingleH2OWorker(InternalH2OBackend.scala:122), org.apache.spark.h2o.backends.internal.InternalH2OBackend.startH2OCluster(InternalH2OBackend.scala:46), org.apache.spark.h2o.H2OContext.<init>(H2OContext.scala:84), org.apache.spark.h2o.H2OContext$.getOrCreate(H2OContext.scala:506), sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method), sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244), py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357), py4j.Gateway.invoke(Gateway.java:282), py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132), py4j.commands.CallCommand.execute(CallCommand.java:79), py4j.GatewayConnection.run(GatewayConnection.java:238), java.lang.Thread.run(Thread.java:748)]
+06-20 22:35:42.404 (exiting)  #31:54321 ERRR: Error leading to a cloud kill from 172.29.157.231/172.29.157.231:54321
+06-20 22:35:42.405 (exiting)  #31:54321 FATAL: Exiting.
