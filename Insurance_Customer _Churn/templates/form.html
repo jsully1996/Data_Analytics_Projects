@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+ <head>
+   <meta charset="utf-8">
+   <title>Customer Churn</title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+  </head>
+ <body>
+  <h1>Employee Details</h1>
+  <h3>Fill out the employee details and press Submit to calculate the Churn probability</h3>
+  <br>
+<form action='#' class='form' method="post">
+  <p class='field'>
+    <label class='label required' for='name'>Employee Full name</label>
+    <input class='text-input' id='name' name='Name' required type='text' value='Taylor Johnson'>
+  </p>
+   <p class='field required half error'>
+    <label class='label'>Employee ID</label>
+    <input class='text-input' name='Customer ID' required type='text' value='DA29911'>
+  </p>
+  <p class='field half'>
+    <label class='label'>City</label>
+    <input class='text-input' name='City' value='Mumbai'>
+  </p>
+  <p class='field half'>
+    <label class='label' for='email'>E-mail</label>
+    <input class='text-input' id='email' name='Email' value='taylorjohn@hotmail.com'>
+  </p>
+  <p class='field half'>
+    <label class='label' for='phone'>Phone</label>
+    <input class='text-input' id='phone' name='Phone_no' type='phone' value='577.347.1095'>
+  </p>
+  <p class='field required third'>
+    <label class='label'>Age</label>
+    <input class='text-input' name='Age' value='33'>
+  </p>
+  <p class='field required third'>
+    <label class='label'>Lifetime Value</label>
+    <input class='text-input' name='Customer Lifetime Value' value='6388.288678'>
+  </p>
+    <p class='field required third'>
+    <label class='label'>Income</label>
+    <input class='text-input' name='Income' value='40472'>
+  </p>
+    <div class='field'>
+    <label class='label'>Education</label>
+    <ul class='options' name='Education'>
+      <li class='option'>
+        <input class='option-input' id='edu-option-0' name='Education' type='radio' value='Grade X'>
+        <label class='option-label' for='edu-option-0'>Grade X</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='edu-option-1' name='Education' type='radio' value='Grade XII'>
+        <label class='option-label' for='edu-option-1'>Grade XII</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='edu-option-2' name='Education' type='radio' value='Diploma'>
+        <label class='option-label' for='edu-option-2'>Diploma</label>
+      </li>
+      <li class='option' selected>
+        <input class='option-input' id='edu-option-3' name='Education' type='radio' value='Graduate' checked>
+        <label class='option-label' for='edu-option-3'>Graduate</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='edu-option-4' name='Education' type='radio' value='Master'>
+        <label class='option-label' for='edu-option-4'>Master</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='edu-option-5' name='Education' type='radio' value='PhD'>
+        <label class='option-label' for='edu-option-5'>PhD</label>
+      </li>
+    </ul>
+  </div>
+
+  <p class='field'>
+    <label class='label' for='about'>Address</label>
+    <textarea class='textarea' cols='50' id='about' name='Address' rows='2'>735 Joseph Lakes Apt. 402</textarea>
+  </p>
+  <p class='field half required'>
+    <label class='label'>Job</label>
+    <input class='text-input' name='Job' value='Data Scientist'>
+  </p>
+  <p class='field half required'>
+    <label class='label'>Company</label>
+    <input class='text-input' name='Company' value='Johnson-Hooper'>
+  </p>
+  <p class='field half required'>
+    <label class='label'>Credit Card Provider</label>
+    <input class='text-input' name= 'Credit Card Provider' value='VISA 13 digit'>
+  </p>
+  <p class='field half'>
+    <label class='label'>Social Security Number</label>
+    <input class='text-input' name='SSN' value='359-15-7355'>
+  </p>
+  <p class='field required third'>
+    <label class='label' for='select'>Sex</label>
+      <select class='select' name='Gender'>
+      <option selected value='Male'>M/F</option>
+      <option value='Male'>Male</option>
+      <option value='Female'>Female</option>
+    </select>
+  </p>
+  <p class='field required third'>
+      <label class='label' for='select'>Response</label>
+      <select class='select' name='Response'>
+      <option selected value='Yes'>Y/N</option>
+      <option value='Yes'>Yes</option>
+      <option value='No'>No</option>
+    </select>
+  </p>
+    <p class='field required third'>
+      <label class='label' for='select'>Coverage</label>
+      <select class='select' name='Coverage'>
+      <option selected value='Basic'>Basic</option>
+      <option value='Extended'>Extended</option>
+      <option value='Premium'>Premium</option>
+    </select>
+  </p>
+  <p class='field required half'>
+  <label class='label'>Effective to Date</label>
+  <input type="date" class="text-input" id="date" name='Effective To Date' value="2020-07-07" min="2000-01-01" max="2099-12-31">
+</p>
+<p class='field half required'>
+    <label class='label'>Total Claim Amount</label>
+    <input class='text-input' name='Total Claim Amount' value='56717.98470'>
+  </p>
+<div class='field'>
+    <label class='label'>Employment Status</label>
+    <ul class='options'>
+      <li class='option'>
+        <input class='option-input' id='emp-option-0' name='Employment_Status' type='radio' value='Unemployed'>
+        <label class='option-label' for='emp-option-0'>Unemployed</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='emp-option-1' name='Employment_Status' type='radio' value='Employed' checked>
+        <label class='option-label' for='emp-option-1'>Employed</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='emp-option-2' name='Employment_Status' type='radio' value='Retired'>
+        <label class='option-label' for='emp-option-2'>Retired</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='emp-option-3' name='Employment_Status' type='radio' value='On Leave'>
+        <label class='option-label' for='emp-option-3'>On Leave</label>
+      </li>
+    </ul>
+  </div>
+  <p class='field required half'>
+      <label class='label' for='select'>Location Code</label>
+      <select class='select' name='Location_Code'>
+      <option selected value='Urban'></option>
+      <option value='Suburban'>Suburban</option>
+      <option value='Urban'>Urban</option>
+      <option value='Rural'>Rural</option>
+    </select>
+  </p>
+    <p class='field required half'>
+      <label class='label' for='select'>Marital Status</label>
+      <select class='select' name='Marital Status'>
+      <option selected value='Married'></option>
+      <option value='Single'>Single</option>
+      <option value='Married'>Married</option>
+    </select>
+  </p>
+  <p class='field required third'>
+    <label class='label'>Monthly Premium Auto</label>
+    <input class='text-input' name='Monthly Premium Auto' value='145'>
+  </p>
+  <p class='field required third'>
+    <label class='label'>Total Written Premium</label>
+    <input class='text-input' name='Total Written Premium' value='8000'>
+  </p>
+    <p class='field required third'>
+    <label class='label'>Losses</label>
+    <input class='text-input' name='Losses' value='9999'>
+  </p>
+  <p class='field required third'>
+    <label class='label'>Loss Ratio</label>
+    <input class='text-input' name='Loss Ratio' value='0.646622'>
+  </p>
+  <p class='field required third'>
+    <label class='label'>Growth Rate</label>
+    <input class='text-input' name='Growth Rate' value="1.644913">
+  </p>
+    <p class='field required third'>
+    <label class='label'>Commissions</label>
+    <input class='text-input' name='Commissions' value='8000'>
+  </p>
+  <p class='field required half'>
+    <label class='label'>Months since last claim</label>
+    <input class='text-input' name="Months Since Last Claim" value='30'>
+  </p>
+  <p class='field required half'>
+    <label class='label'>Months since policy inception</label>
+    <input class='text-input' name='Months Since Policy Inception' value='12'>
+  </p>  
+  <p class='field required third'>
+    <label class='label' for='select'>Open Complaints</label>
+      <select class='select' name='Number of Open Complaints'>
+      <option selected value='0'>Select no. of open complaints</option>
+      <option value='0'>0</option>
+      <option value='1'>1</option>
+      <option value='2'>2</option>
+    </select>
+  </p>
+  <p class='field required third'>
+      <label class='label' for='select'>Policies</label>
+      <select class='select' name='Number of Policies'>
+      <option selected value='5'>Select no. of policies</option>
+      <option value='0'>0</option>
+      <option value='1'>1</option>
+      <option value='2'>2</option>
+      <option value='3'>3</option>
+      <option value='4'>4</option>
+      <option value='5'>5</option>
+      <option value='6'>6</option>
+      <option value='7'>7</option>
+      <option value='8'>8</option>
+      <option value='9'>9</option>
+    </select>
+  </p>
+    <p class='field required third'>
+      <label class='label' for='select'>Previous Policies</label>
+      <select class='select' name='Number of previous policies'>
+      <option selected value='13'>Select no. of previous policies</option>
+      <option value='0'>0</option>
+      <option value='1'>1</option>
+      <option value='2'>2</option>
+      <option value='3'>3</option>
+      <option value='4'>4</option>
+      <option value='5'>5</option>
+      <option value='6'>6</option>
+      <option value='7'>7</option>
+      <option value='8'>8</option>
+      <option value='9'>9</option>
+      <option value='10'>10</option>
+      <option value='11'>11</option>
+      <option value='12'>12</option>
+      <option value='13'>13</option>
+      <option value='14'>14</option>
+      <option value='15'>15</option>
+      <option value='16'>16</option>
+      <option value='17'>17</option>
+      <option value='18'>18</option>
+      <option value='19'>19</option>
+    </select>
+  </p>
+  <p class='field required half'>
+      <label class='label' for='select'>Policy Type</label>
+      <select class='select' name='Policy_Type'>
+      <option selected value='Privileged'></option>
+      <option value='Personal'>Personal</option>
+      <option value='Privileged'>Privileged</option>
+      <option value='Corporate'>Corporate</option>
+      <option value='Special'>Special</option>
+    </select>
+  </p>
+    <p class='field required half'>
+      <label class='label' for='select'>Policy Rating</label>
+      <select class='select' name='Policy_Rating'>
+      <option selected value='Average'></option>
+      <option value='Good'>Good</option>
+      <option value='Bad'>Bad</option>
+      <option value='Average'>Average</option>
+    </select>
+  </p>
+  <p class='field required half'>
+      <label class='label' for='select'>Renew Offer Type</label>
+      <select class='select' name='Renew_Offer_Type'>
+      <option selected value='Offer 1'></option>
+      <option value='Offer 1'>Offer 1</option>
+      <option value='Offer 2'>Offer 2</option>
+      <option value='Offer 3'>Offer 3</option>
+      <option value='Offer 4'>Offer 4</option>
+    </select>
+  </p>
+    <p class='field required half'>
+      <label class='label' for='select'>Sales Channel</label>
+      <select class='select' name="Sales_Channel">
+      <option selected value='Online'></option>
+      <option value='Online'>Online</option>
+      <option value='Branch'>Branch</option>
+      <option value='Agent'>Agent</option>
+      <option value='Call Centre'>Call Centre</option>
+      <option value='Other'>Other</option>
+    </select>
+  </p>
+  <div class='field'>
+    <label class='label'>Feedback</label>
+    <ul class='options'>
+      <li class='option'>
+        <input class='option-input' id='fbk-option-0' name='Feedback' type='radio' value='Satisfactory' checked>
+        <label class='option-label' for='fbk-option-0'>Satisfactory</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='fbk-option-1' name='Feedback' type='radio' value='Good'>
+        <label class='option-label' for='fbk-option-1'>Good</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='fbk-option-2' name='Feedback' type='radio' value='Excellent'>
+        <label class='option-label' for='fbk-option-2'>Excellent</label>
+      </li>
+      <li class='option'>
+        <input class='option-input' id='fbk-option-3' name='Feedback' type='radio' value='Horrible'>
+        <label class='option-label' for='fbk-option-3'>Horrible</label>
+      </li>
+       <li class='option'>
+        <input class='option-input' id='fbk-option-4' name='Feedback' type='radio' value='Bad'>
+        <label class='option-label' for='fbk-option-4'>Bad</label>
+      </li>
+       <li class='option'>
+        <input class='option-input' id='fbk-option-5' name='Feedback' type='radio' value='Not Given'>
+        <label class='option-label' for='fbk-option-5'>Not Given</label>
+      </li>
+       <li class='option'>
+        <input class='option-input' id='fbk-option-6' name='Feedback' type='radio' value='Average'>
+        <label class='option-label' for='fbk-option-6'>Average</label>
+      </li>
+    </ul>
+  </div>
+
+  <p class='field half'>
+    <input class='button' type='submit' value='Submit'>
+  </p>
+
+</form>
+
+
+    <div class="container">
+      {% block content %}
+      {% endblock %}
+    </div>
+ </body>
+</html>

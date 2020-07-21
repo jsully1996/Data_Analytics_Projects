@@ -1,0 +1,76 @@
+07-20 23:22:52.325 172.31.7.90:54325     24861  Thread-5  INFO: ----- H2O started  -----
+07-20 23:22:52.360 172.31.7.90:54325     24861  Thread-5  INFO: Build git branch: rel-zahradnik
+07-20 23:22:52.360 172.31.7.90:54325     24861  Thread-5  INFO: Build git hash: f174ca00df37c3fb690476d40a69599622b71d88
+07-20 23:22:52.361 172.31.7.90:54325     24861  Thread-5  INFO: Build git describe: jenkins-3.30.0.3-95-gf174ca0
+07-20 23:22:52.361 172.31.7.90:54325     24861  Thread-5  INFO: Build project version: 3.30.0.4
+07-20 23:22:52.361 172.31.7.90:54325     24861  Thread-5  INFO: Build age: 1 month and 19 days
+07-20 23:22:52.362 172.31.7.90:54325     24861  Thread-5  INFO: Built by: 'jenkins'
+07-20 23:22:52.362 172.31.7.90:54325     24861  Thread-5  INFO: Built on: '2020-06-01 15:15:06'
+07-20 23:22:52.362 172.31.7.90:54325     24861  Thread-5  INFO: Found H2O Core extensions: [HiveTableImporter, StackTraceCollector, XGBoost]
+07-20 23:22:52.362 172.31.7.90:54325     24861  Thread-5  INFO: Processed H2O arguments: [-internal_security_conf_rel_paths, -name, sparkling-water-jim_local-1595312566685, -port_offset, 1, -hdfs_config, /tmp/spark-661fcdbc-f3f0-468c-a57e-f506fa84593a/userFiles-fbe9782d-6c6b-4bf0-8e36-d6fd6af4b41b/hdfs_conf1617289481953048940.xml, -embedded, -quiet, -log_level, INFO, -log_dir, /home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/h2ologs/local-1595312566685, -baseport, 54321, -flatfile, /tmp/spark-661fcdbc-f3f0-468c-a57e-f506fa84593a/sparkling-water-a83ed49a-f3a4-40f8-acee-bc7dee4d5d77/flatfile.txt]
+07-20 23:22:52.362 172.31.7.90:54325     24861  Thread-5  INFO: Java availableProcessors: 4
+07-20 23:22:52.363 172.31.7.90:54325     24861  Thread-5  INFO: Java heap totalMemory: 210.0 MB
+07-20 23:22:52.363 172.31.7.90:54325     24861  Thread-5  INFO: Java heap maxMemory: 910.5 MB
+07-20 23:22:52.363 172.31.7.90:54325     24861  Thread-5  INFO: Java version: Java 1.8.0_201 (from Oracle Corporation)
+07-20 23:22:52.363 172.31.7.90:54325     24861  Thread-5  INFO: JVM launch parameters: [-Xmx1g]
+07-20 23:22:52.364 172.31.7.90:54325     24861  Thread-5  INFO: JVM process id: 24861@jim-Lenovo-ideapad-110-15ISK
+07-20 23:22:52.364 172.31.7.90:54325     24861  Thread-5  INFO: OS version: Linux 5.3.0-59-generic (amd64)
+07-20 23:22:52.364 172.31.7.90:54325     24861  Thread-5  INFO: Machine physical memory: 7.65 GB
+07-20 23:22:52.364 172.31.7.90:54325     24861  Thread-5  INFO: Machine locale: en_CA
+07-20 23:22:52.365 172.31.7.90:54325     24861  Thread-5  INFO: X-h2o-cluster-id: 1595312571434
+07-20 23:22:52.365 172.31.7.90:54325     24861  Thread-5  INFO: User name: 'jim'
+07-20 23:22:52.365 172.31.7.90:54325     24861  Thread-5  INFO: IPv6 stack selected: false
+07-20 23:22:52.365 172.31.7.90:54325     24861  Thread-5  INFO: Network interface is down: name:docker0 (docker0)
+07-20 23:22:52.365 172.31.7.90:54325     24861  Thread-5  INFO: Network interface is down: name:virbr0 (virbr0)
+07-20 23:22:52.366 172.31.7.90:54325     24861  Thread-5  INFO: Possible IP Address: wlp3s0 (wlp3s0), fe80:0:0:0:4bf6:594:92b2:28dc%wlp3s0
+07-20 23:22:52.366 172.31.7.90:54325     24861  Thread-5  INFO: Possible IP Address: wlp3s0 (wlp3s0), 172.31.7.90
+07-20 23:22:52.366 172.31.7.90:54325     24861  Thread-5  INFO: Possible IP Address: lo (lo), 0:0:0:0:0:0:0:1%lo
+07-20 23:22:52.366 172.31.7.90:54325     24861  Thread-5  INFO: Possible IP Address: lo (lo), 127.0.0.1
+07-20 23:22:52.366 172.31.7.90:54325     24861  Thread-5  INFO: H2O node running in unencrypted mode.
+07-20 23:22:52.373 172.31.7.90:54325     24861  Thread-5  INFO: Internal communication uses port: 54326
+07-20 23:22:52.373 172.31.7.90:54325     24861  Thread-5  INFO: Listening for HTTP and REST traffic on http://172.31.7.90:54325/
+07-20 23:22:52.401 172.31.7.90:54325     24861  Thread-5  WARN: Flatfile configuration does not include self: /172.31.7.90:54325, but contains []
+07-20 23:22:52.402 172.31.7.90:54325     24861  Thread-5  INFO: H2O cloud name: 'sparkling-water-jim_local-1595312566685' on /172.31.7.90:54325, discovery address /227.141.133.239:58253
+07-20 23:22:52.402 172.31.7.90:54325     24861  Thread-5  INFO: If you have trouble connecting, try SSH tunneling from your local machine (e.g., via port 55555):
+07-20 23:22:52.402 172.31.7.90:54325     24861  Thread-5  INFO:   1. Open a terminal and run 'ssh -L 55555:localhost:54325 jim@172.31.7.90'
+07-20 23:22:52.402 172.31.7.90:54325     24861  Thread-5  INFO:   2. Point your browser to http://localhost:55555
+07-20 23:22:53.408 172.31.7.90:54325     24861  Thread-5  INFO: Log dir: '/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn/h2ologs/local-1595312566685'
+07-20 23:22:53.409 172.31.7.90:54325     24861  Thread-5  INFO: Cur dir: '/home/jim/Documents/Data_Analytics_Projects/Insurance_Customer _Churn'
+07-20 23:22:53.435 172.31.7.90:54325     24861  Thread-5  INFO: Distributed HTTP import not available (import from HTTP/HTTPS will be eager)
+07-20 23:22:53.438 172.31.7.90:54325     24861  Thread-5  INFO: HDFS subsystem successfully initialized
+07-20 23:22:53.445 172.31.7.90:54325     24861  Thread-5  INFO: S3 subsystem successfully initialized
+07-20 23:22:53.478 172.31.7.90:54325     24861  Thread-5  INFO: GCS subsystem successfully initialized
+07-20 23:22:53.478 172.31.7.90:54325     24861  Thread-5  INFO: Flow dir: '/home/jim/h2oflows'
+07-20 23:22:53.500 172.31.7.90:54325     24861  Thread-5  INFO: Cloud of size 1 formed [/172.31.7.90:54325]
+07-20 23:22:53.557 172.31.7.90:54325     24861  Thread-5  INFO: Registered parsers: [GUESS, ARFF, XLS, SVMLight, AVRO, PARQUET, ORC, CSV]
+07-20 23:22:53.559 172.31.7.90:54325     24861  Thread-5  INFO: HiveTableImporter extension initialized
+07-20 23:22:53.559 172.31.7.90:54325     24861  Thread-5  INFO: StackTraceCollector extension initialized
+07-20 23:22:53.559 172.31.7.90:54325     24861  Thread-5  INFO: XGBoost extension initialized
+07-20 23:22:53.559 172.31.7.90:54325     24861  Thread-5  INFO: Registered 3 core extensions in: 544ms
+07-20 23:22:53.559 172.31.7.90:54325     24861  Thread-5  INFO: Registered H2O core extensions: [HiveTableImporter, StackTraceCollector, XGBoost]
+07-20 23:22:54.074 172.31.7.90:54325     24861  Thread-5  INFO: Found XGBoost backend with library: xgboost4j_gpu
+07-20 23:22:54.074 172.31.7.90:54325     24861  Thread-5  INFO: XGBoost supported backends: [WITH_GPU, WITH_OMP]
+07-20 23:22:54.438 172.31.7.90:54325     24861  Thread-5  INFO: Registered: 212 REST APIs in: 879ms
+07-20 23:22:54.438 172.31.7.90:54325     24861  Thread-5  INFO: Registered REST API extensions: [XGBoost, Algos, Amazon S3, Sparkling Water REST API Extensions, AutoML, Core V3, TargetEncoder, Core V4]
+07-20 23:22:54.688 172.31.7.90:54325     24861  Thread-5  INFO: Registered: 298 schemas in 249ms
+07-20 23:22:54.689 172.31.7.90:54325     24861  Thread-5  INFO: H2O started in 3281ms
+07-20 23:22:54.689 172.31.7.90:54325     24861  Thread-5  INFO: 
+07-20 23:22:54.689 172.31.7.90:54325     24861  Thread-5  INFO: Open H2O Flow in your web browser: http://172.31.7.90:54325
+07-20 23:22:54.689 172.31.7.90:54325     24861  Thread-5  INFO: 
+07-20 23:23:11.973 172.31.7.90:54325     24861  #50367-57 INFO: POST /3/CloudLock, parms: {reason=Locked from Sparkling Water.}
+07-20 23:23:11.976 172.31.7.90:54325     24861  #50367-57 INFO: Locking cloud to new members, because requested via REST api. Reason: Locked from Sparkling Water.
+07-20 23:23:12.197 172.31.7.90:54325     24861  #50367-54 INFO: POST /99/Rapids, parms: {ast=(setTimeZone "UTC")}
+07-20 23:23:12.659 172.31.7.90:54325     24861  #50367-54 INFO: GET /3/Capabilities/API, parms: {}
+07-20 23:23:18.710 172.31.7.90:54325     24861  #50367-58 INFO: POST /99/Models.bin/, parms: {dir=Misc/models/RF_Insurance_model/DRF_model_python_1591600273347_1}
+07-20 23:23:19.354 172.31.7.90:54325     24861  #50367-54 INFO: GET /3/Models/DRF_model_python_1591600273347_1, parms: {}
+07-20 23:23:58.360 172.31.7.90:54325     24861  #50367-57 INFO: POST /3/InitializeFrame, parms: {key=frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82, columns=[Age,Commissions,Customer Lifetime Value,Effective To Date,Growth Rate,Income,Loss Ratio,Losses,Monthly Premium Auto,Months Since Last Claim,Months Since Policy Inception,Number of Open Complaints,Number of Policies,Number of previous policies,Total Written Premium,CityIndex,Response Index,Coverage Index,Education Index,Employment_Status Index,Gender Index,Location_Code Index,Marital Status Index,Policy_Type Index,Policy_Rating Index,Renew_Offer_Type Index,Sales_Channel Index,Total Claim Amount Index,Feedback Index,Job Index,Company Index,Credit Card Provider Index]}
+07-20 23:23:58.727 172.31.7.90:54325     24861  #50367-55 INFO: GET /3/UploadPlan, parms: {number_of_chunks=1}
+07-20 23:23:59.326 172.31.7.90:54325     24861  #50367-57 INFO: POST /3/FinalizeFrame, parms: {rows_per_chunk=AQAAAAAAAAA=, key=frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82, column_types=AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM=}
+07-20 23:23:59.432 172.31.7.90:54325     24861  #50367-54 INFO: GET /3/Frames/frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82/light, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+07-20 23:23:59.506 172.31.7.90:54325     24861  #50367-58 INFO: POST /4/Predictions/models/DRF_model_python_1591600273347_1/frames/frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82, parms: {}
+07-20 23:23:59.637 172.31.7.90:54325     24861  FJ-1-5    INFO: Test/Validation dataset is missing column 'Churn': substituting in a column of NaN
+07-20 23:23:59.853 172.31.7.90:54325     24861  #50367-61 INFO: GET /3/Frames/transformation_817f_DRF_model_python_1591600273347_1_on_frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82, parms: {column_offset=0, full_column_count=-1, row_count=10, row_offset=0, column_count=-1}
+07-20 23:23:59.869 172.31.7.90:54325     24861  #50367-55 INFO: GET /3/Frames/transformation_817f_DRF_model_python_1591600273347_1_on_frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82/summary, parms: {row_count=0}
+07-20 23:23:59.893 172.31.7.90:54325     24861  #50367-58 INFO: GET /3/FrameChunks/transformation_817f_DRF_model_python_1591600273347_1_on_frame_rdd_146_99b235df5b41a09e7a4cc4e4caca4c82, parms: {}
+07-20 23:34:27.172 172.31.7.90:54325     24861  #50367-59 INFO: POST /4/sessions, parms: {}
+07-20 23:34:27.267 172.31.7.90:54325     24861  #50367-60 INFO: DELETE /4/sessions/_sid_a512, parms: {}
