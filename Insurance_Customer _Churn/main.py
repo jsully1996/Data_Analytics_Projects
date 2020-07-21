@@ -88,7 +88,8 @@ class prediction_model(object):
         self.prediction = self.predict()
         self.answer = self.get_answer(self.prediction)
         return self.answer
-    
+
+#Displays result of prediction by the model
 @app.route('/<nm>')
 def name(nm):
     return f"<h1>{nm}</h1>"
