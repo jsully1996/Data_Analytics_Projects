@@ -2,7 +2,6 @@ from flask import Flask, request, redirect, render_template, url_for
 #Import dependencies
 from pyspark.sql import SparkSession, functions, types
 from pyspark.ml.feature import StringIndexer
-import random
 from pysparkling import *
 import h2o
 app = Flask(__name__)
@@ -12,8 +11,8 @@ class prediction_model(object):
         #Import Pyspark and create a SparkSession, set the Sparkcontext.
         self.spark = SparkSession\
             .builder\
-            .appName("Transform&Load")\
-            .config("spark.driver.extraClassPath","/home/jim/spark-2.4.0-bin-hadoop2.7/jars/mysql-connector-java-5.1.49.jar")\
+            .appName("Front-end")\
+            #.config("spark.driver.extraClassPath","/home/jim/spark-2.4.0-bin-hadoop2.7/jars/mysql-connector-java-5.1.49.jar")\
             .getOrCreate()
         self.spark.sparkContext.setLogLevel('WARN')
         self.sc = self.spark.sparkContext
