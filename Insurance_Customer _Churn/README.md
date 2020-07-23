@@ -1,1 +1,2 @@
-
+# Retaining Insurance customers with Churn Prediction
+The essence of this project is to showcase an application for a predictive model while at the same time learning the basics of data ETL, pipelines and machine learning with <a href='https://www.h2o.ai/?utm_source=google&utm_medium=cpc&utm_term=machine%20learning&utm_campaign=ml&gclid=CjwKCAjwx9_4BRAHEiwApAt0zhoKsW3UFygiJN6hCCdQZOGC3tDtof0gVla0ns8wfPbctTYatUrAORoCOMcQAvD_BwE'>H2O</a>, Apache Spark
