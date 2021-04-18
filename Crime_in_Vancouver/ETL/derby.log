@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 18 23:39:05 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-e62b-f990-0000041a8bd8 
+on database directory /home/jim/Documents/Data_Analytics_Projects/Crime_in_Vancouver/ETL/metastore_db with class loader sun.misc.Launcher$AppClassLoader@515f550a 
+Loaded from file:/home/jim/spark-2.4.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/jim/Documents/Data_Analytics_Projects/Crime_in_Vancouver/ETL
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-62-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
