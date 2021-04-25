@@ -108,7 +108,7 @@ Here we outline some of the difficulties faced by us during this project.
 
 * Most online APIs that generate such geocode such parameters do not permit Big Data processing i.e. they limit the amount of requests. Offline ones do not narrow down a parameter as is desired for our exercise, usually returning a city or wherabouts as the minutest identification. To overcome this problem, we are obliged to build our own tree-like datastructure and retain it into memory. This way we can store a large amount of parameters through reverse-geocoding with a rather insignificant number of requests to the API. (although still running in tens of thousands.)
 
-* To train our Spark ML model, we realized that our sample dataset was heavily skewed. Majority of reported crimes occur in a single neighbourhood. Whether this is data discrepancy or actually so, our initial model turned out to be heavily biased - predicting all future crime to be taking place in the same neighbourhood. We were able to resolve bias by using methods such as assigning class weights and structure annotation to increase the accuracy of our model from a measly 24% to 68%.
+* To train our Spark ML model, we realized that our sample dataset was heavily skewed. Majority of reported crimes occur in a single neighbourhood. Whether this is data discrepancy or actually so, our initial model turned out to be heavily biased - predicting all future crime to be taking place in the same neighbourhood. We were able to resolve bias by using methods such as assigning class weights and using LogisticRegressionWithLBFGS (which utilizes L-BFGS instead of the traditional Stochastic Gradient Descent) to increase the accuracy of our model from a measly 24% to 68%.
 
 
 
